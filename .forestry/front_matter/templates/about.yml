@@ -1,0 +1,34 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: field_group_list
+  name: layouts_gallery
+  label: layouts_gallery
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+- type: datetime
+  name: last_modified_at
+  label: last_modified_at
+- type: boolean
+  name: toc
+  label: toc
+pages:
+- _pages/about.md
