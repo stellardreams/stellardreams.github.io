@@ -1,0 +1,29 @@
+---
+label: 'Post: Header'
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: last_modified_at
+  label: last_modified_at
+  default: now
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: teaser
+    label: teaser
+  - type: file
+    name: og_image
+    label: og_image
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
