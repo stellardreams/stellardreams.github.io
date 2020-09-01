@@ -7,3 +7,5 @@
 
 
 <img src="{{site.baseurl}}/assets/img/my-image.jpg">
+-----------
+<img src="https://github.com/stellardreams/stellardreams.github.io/blob/master/assets/images/Start-with-Why-Simon-Sinek.png">
