@@ -8,10 +8,15 @@ toc: true
 
 This page is maintained by [Adeel Khan](https://www.linkedin.com/in/adeelkhan1/)
 
-# The kind of content to expect on this blog
+# What is this blog about?
 
-* Start by sharing content developed during the past couple of years. Topics include but are not limited to: Enabling clusters of innovation, further exploration, discovery and commercial aspects in space, terraforming Venus. As well, the framework required for co-operation in an earthly sense.
+* There is content that I've worked on during the past couple of years. Right now this content is just sitting in Google Drive. I'd like to port this content over to this public/online space, so that others can benefit from it. 
+* Topics include but are not limited to: Enabling clusters of innovation, further exploration/discovery/mining for resources in space, terraforming Venus.
+* As well, the framework required for co-operation in an earthly sense. With a core focus on enabling the [Outer Space Treaty](https://en.wikipedia.org/wiki/Outer_Space_Treaty) in a manner that works for everyone.
 
 ## Team
 
+* I will be actively hiring. Please feel free to reach out to me via Linkedin! (Link above)
 
+
+Thanks for reading and stopping by!
