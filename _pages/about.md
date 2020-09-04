@@ -16,7 +16,7 @@ This page is maintained by [Adeel Khan](https://www.linkedin.com/in/adeelkhan1/)
 
 ## Team
 
-* I will be actively hiring. Please feel free to reach out to me via [Linkedin]!(https://www.linkedin.com/in/adeelkhan1/)
+* I will be actively hiring. Please feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/adeelkhan1/)
 
 
 Thanks for reading and stopping by!
