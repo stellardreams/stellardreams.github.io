@@ -8,10 +8,10 @@ toc: true
 
 This page is maintained by [Adeel Khan](https://www.linkedin.com/in/adeelkhan1/)
 
-# What I do
+# The kind of content to expect on this blog
 
-Test
+* Start by sharing content developed during the past couple of years. Topics include but are not limited to: Enabling clusters of innovation, further exploration, discovery and commercial aspects in space, terraforming Venus. As well, the framework required for co-operation in an earthly sense.
 
 ## Team
 
-Test
+
