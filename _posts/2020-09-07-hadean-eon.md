@@ -1,0 +1,1 @@
+The first eon on Earth was the Hadean. This era lasted for about 600 million years. This was the time when the moon collided with the earth. During this era, the average surface temperature was in the range of '230 °C (446 °F)'
