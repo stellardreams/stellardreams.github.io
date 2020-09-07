@@ -1,4 +1,4 @@
-By the year 2021: What will get us to the $100 per KG range?
+By the year 2021: What will get us to the $100 (or hundreds of dollars) per kilogram(kg) range?
 
 Regular scale:
 <img src="/assets/images/Cost-per-KG-reg.png">
