@@ -26,6 +26,6 @@ With that being said, these two areas are now yours to think about and develop u
 
 Deep down inside, we already know what is good and wholesome in a universal sense. And a lot of it has to do with bringing about changes related to oneself. 
 
-If you are taking consistent steps towards changing yourself, then you are changing the universe. And that, my friends is powerful. 
+If you are taking consistent steps towards changing yourself, then you are changing the universe. And that, my friends, is powerful. 
 
 To adventure & fellowship! With enthusiasm & gusto!
