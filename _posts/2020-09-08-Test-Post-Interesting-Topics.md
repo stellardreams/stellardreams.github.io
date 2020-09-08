@@ -1,0 +1,43 @@
+- Making life interplanetary appears to be the right approach in order to ensure that there is a continuation for life that originated on earth. Keeping into consideration that life on earth may have been seeded from somewhere else in the galaxy/universe (Panspermia theory)
+- Enabling access to other celestial bodies, as well placing structures in orbit will lead to resource abundance. This will alter the design of our economic systems and will free intelligent life from repetitive work (Including toil)
+- Going to space and the subsequent resource abundance and how that will have a calming and peaceful effect for relations here on earth and eventually across the solar system. 
+- Enabling discovery and wonder. Bringing back images from the surface of the various planetary bodies. In time, rovers and drones and a variety of autonomous robotics exploring the many different terrains and under-water surfaces across the solar system. 
+- Prospect of finding life outside of earth. (Europa, Titan and elsewhere). Would be really cool to see non-microbial life!
+- Exploring the solar system on a mid-term timescale. 
+- Exploring the prospect of terraforming entire planets (particularly Mars and Venus) on a shortened timescale. With functional nano-tech, steps to AGI and further breakthroughs in the world of material science. Provided no life has been discovered/found on these rocks (anywhere: Caves, polar ice caps of Mars, underground e.t.c)
+- Longer term: Exploring exoplanets in the nearby solar systems. Getting data back.
+- Power global and soon solar system wide security in a co-operative manner. (Would have to rethink privacy, specially outside of our homes)
+- Prospect of coming in contact with intelligent alien life. 
+- Ideal real-estate in our universe (Knowing what little we know about our universe to date)
+- Prospect of technological singularities interacting with each other. 
+- Drake's equation (I'd need to refresh my memory on this subject. I made a video once where I broke down the equation from Wikipedia. Just to wrap my mind around it. Nothing fancy)
+- Fermi's paradox. 
+- Transcension hypothesis. 
+- Prospect of extra dimensions. (I am not very conversant with string theory. But it's interesting to ponder how reality may be structured)
+- Mindfiles and psychological continuity. 
+- Ethics involving cloning. 
+- Ethics involving biological recapitulation. 
+- Future of genetics, synthetic biology, biotech (I can hypothesize. I am not very conversant with the basics of these subjects)
+- Humans, cyborgs and post-humans.
+- Augmented humans: Mind and body. (Exploring cyborgian realms)
+- Future of governance in an interplanetary sense (brainstorming)
+- DARPA's 100yss project. https://100yss.org/  (Would need some extra time to prepare for this)
+- Generation ships
+- Genetic arks (For seeding life and the conditions under which something like this would be feasible/necessary)
+- Reversing aging.
+- Ethics involving indefinite life extension. 
+- Potential pros and cons of a one world government. (Would need some time to think about this as well)
+- Steps to safe AGI (Broad topic: So we could split this up in segments if you'd like or talk about specific subtopics).
+- Mega projects that will be required in a non-terrestrial sense in our solar system. And also in a terrestrial sense. 
+- Prospect of finding  graviton and the technologies that could be powered (Will need some time to think about this)
+- Prospect of enabling superconductors at room temperature. (More of a thought vs an entire subject that needs to be unpacked)
+- Gravity potentially leaking from one universe to another. Could signals be embedded in gravitational waves? (I haven't thought about this much)
+- What if there is already a galactic federation of intelligent species and humans are not part of it as of yet? What would contact look like in this scenario. Will it be like 'Childhood's end' (Clarke) or will it be more akin to the ‘Hedonistic Imperative’ via David Pearce. 
+- How to enable the younger generation to think big and bold dreams and make wealth/create an impact. In a Peter Diamandis sense. 
+- Future models : Innovation. 
+- Massive crowdsourced systems targeting complex problems. Crunching down the timescales. 
+- Role that private corporations can play in making life interplanetary. 
+- How best should the wealth generated from space based resources be re-distributed/re-invested. Specifically, to continually enrich the culture. In a multiple value system world. 
+- How must amendments be made to the outer space based treaty? (Would need some time to prepare)
+- I will gladly add to this list if I think of any other interesting topics!
+
