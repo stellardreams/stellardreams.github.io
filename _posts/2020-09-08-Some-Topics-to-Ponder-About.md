@@ -18,7 +18,7 @@ Going back to what I started with in this blogpost, my intuitive and uneducated 
 - Power global and soon solar system wide security in a co-operative manner. (Would have to rethink privacy, specially outside of our homes)
 - Prospect of coming in contact with intelligent alien life. Where would this alien life-form sit on a gradient (how to even define this gradient). How will contact change us, with regards to where the alien species sit on the gradient.
 - Ideal real-estate in our universe (Knowing what little we know about our universe to date)
-- Ideal real-estae in our solar system, anicipating how and when certain technologies will mature. 
+- Ideal real-estate in our solar system, anicipating how and when certain technologies will mature. 
 - Prospect of technological singularities interacting with each other. 
 - Drake's equation (I'd need to refresh my memory on this subject. I made a video once where I broke down the equation from Wikipedia. Just to wrap my mind around it. Nothing fancy)
 - Fermi's paradox. 
