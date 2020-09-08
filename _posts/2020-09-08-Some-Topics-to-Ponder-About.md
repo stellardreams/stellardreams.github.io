@@ -23,7 +23,7 @@ Going back to what I started with in this blogpost, my intuitive and uneducated 
 - Drake's equation (I'd need to refresh my memory on this subject. I made a video once where I broke down the equation from Wikipedia. Just to wrap my mind around it. Nothing fancy)
 - Fermi's paradox. 
 - Transcension hypothesis. 
-- Prospect of extra dimensions. (I am not very conversant with string theory. But it's interesting to ponder how reality may be structured. To build testable structures, only to find out that there is so much more to discovery beyond a certain scale.)
+- Prospect of extra dimensions. (I am not very conversant with string theory. But it's interesting to ponder how reality may be structured. To build testable structures. Only to find out that there is so much more to discover, beyond a certain scale.)
 - Mindfiles and psychological continuity. 
 - Ethics involving the safeguarding of mind-files. The rights of mind-files. 
 - Ethics involving cloning. 
