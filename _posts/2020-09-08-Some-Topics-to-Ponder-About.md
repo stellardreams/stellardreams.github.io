@@ -23,16 +23,16 @@ Going back to what I started with in this blogpost, my intuitive and uneducated 
 - Drake's equation (I'd need to refresh my memory on this subject. I made a video once where I broke down the equation from Wikipedia. Just to wrap my mind around it. Nothing fancy)
 - Fermi's paradox. 
 - Transcension hypothesis. 
-- Prospect of extra dimensions. (I am not very conversant with string theory. But it's interesting to ponder how reality may be structured)
+- Prospect of extra dimensions. (I am not very conversant with string theory. But it's interesting to ponder how reality may be structured. To build testable structures, only to find out that there is so much more to discovery beyond a certain scale.)
 - Mindfiles and psychological continuity. 
 - Ethics involving the safeguarding of mind-files. The rights of mind-files. 
 - Ethics involving cloning. 
 - Ethics involving biological recapitulation. 
-- Future of genetics, synthetic biology, biotech (I can hypothesize. I am not very conversant with the basics of these subjects)
+- Future of genetics, synthetic biology, biotech (I can hypothesize. But, I am not very conversant with the basics of these subjects.)
 - Humans, cyborgs and post-humans.
 - Augmented humans: Mind and body. (Exploring cyborgian realms)
 - Future of governance in an interplanetary sense (brainstorming)
-- DARPA's 100yss project. https://100yss.org/  (Would need some extra time to prepare for this)
+- DARPA's 100yss project. [https://100yss.org/](https://100yss.org/)
 - Generation ships
 - Genetic arks (For seeding life and the conditions under which something like this may be feasible/necessary). 
 - Reversing aging.
