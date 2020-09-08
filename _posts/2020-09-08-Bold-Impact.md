@@ -28,4 +28,4 @@ Deep down inside, we already know what is good and wholesome in a universal sens
 
 If you are taking consistent steps towards changing yourself, then you are changing the universe. And that, my friends, is powerful. 
 
-To adventure & fellowship! With enthusiasm & gusto!
+To adventure & fellowship! With gusto & enthusiasm!
