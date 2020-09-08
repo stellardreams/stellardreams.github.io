@@ -38,7 +38,7 @@ Going back to what I started with in this blogpost, my intuitive and uneducated 
 - Reversing aging.
 - Ethics involving indefinite life extension. 
 - Potential pros and cons of a one world government. (Would need some time to think about this as well) I think we have a duplicate here, as I categorize governance above.
-- Steps to safe AGI (Broad topic: So we could split this up in segments if you'd like or talk about specific subtopics).
+- Steps to safe AGI (Broad and multi-faceted topic. Ethics, safety, how to make it safe, how to make it inclusive).
 - Mega projects that will be required in a non-terrestrial sense in our solar system. And also in a terrestrial sense. 
 - Prospect of finding  graviton and the technologies that could be powered (Will need some time to think about this).
 - Prospect of enabling superconductors at room temperature. (More of a thought vs an entire subject that needs to be unpacked)
