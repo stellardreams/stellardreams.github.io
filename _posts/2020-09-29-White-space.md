@@ -8,7 +8,7 @@ I also like to keep things simple. There was a time in my life when I worked a l
 
 Since then, I have started putting different ledgers in place. Like Peter Drucker once said, "What gets measured, gets managed." I am beginning to exercise more regularly. If the gym is shutdown, then I go for walks or do a workout in the backyard. Sometimes the covid19 situation does get to me and I either sleep in or do not leave the house. 
 
-What this post is really about is white space. This is a term from Ori Brafman and Judah Pollack's book titled: ['the chaos imperative'] (https://www.amazon.ca/dp/B00BH0VSIU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+What this post is really about is white space. This is a term from Ori Brafman and Judah Pollack's book titled: [the chaos imperative](https://www.amazon.ca/dp/B00BH0VSIU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 It's absolutely crucial to have structure/focus and discipline in order to achieve a particular set of outcomes or an outcome at that. But at the same time, it's also super crucial to have moments of relaxation baked into your day to day routine. 
 
