@@ -4,7 +4,7 @@ Wikipedia describes [terraforming]() as:
 
 More recently the following have been observed:
 * Finding traces of phosphine gas on Venus. [Source: The Royal Astronomical Society](https://stellardreams.github.io/Phosphine-on-Venus/)
-* For Mars: There has been been this [thought](https://www.nationalgeographic.com/news/2016/09/mars-journey-nasa-alien-life-protection-humans-planets-space) that sending our rovers to Mars may have led to contaminating the habitat. Seeing that life can indeed thrive in harsh environments here on earth (tardigrades, shrimps and other lifeforms deep in the ocean near volcanic vents, microbes ingesting arsenic e.t.c. 
+* For Mars: The [thought](https://www.nationalgeographic.com/news/2016/09/mars-journey-nasa-alien-life-protection-humans-planets-space) that sending our rovers to Mars may have led to contaminating the habitat. Seeing that life can indeed thrive in harsh environments here on earth ([tardigrades](https://en.wikipedia.org/wiki/Tardigrade#Survival_after_exposure_to_outer_space), [shrimps fish and crabs thriving near hydro-thermal vents](https://ocean.si.edu/ocean-life/invertebrates/hydrothermal-vent-creatures) using [chemosynthesis](https://en.wikipedia.org/wiki/Chemosynthesis#:~:text=In%20biochemistry%2C%20chemosynthesis%20is%20the,energy%2C%20rather%20than%20sunlight%2C%20as) - thriving deep down in the oceans near volcanic vents, [microbes that survive by ingesting arsenic](https://toxics.usgs.gov/highlights/arsenic_bugs.html) e.t.c. 
 
 I think there are a couple of thoughts related to this topic:
 * The actual mechanisms that we leverage in order to develop and deploy equipment, that allows us to explore real-estate in our solar system.
