@@ -6,7 +6,7 @@ I believe that I exercise good control over what kind of stimuli I let into my m
 
 I also like to keep things simple. There was a time in my life when I worked a lot, ignored my physiology and developed bad habits. It was not a co-incidence that this is the time of my life where I suffered the most. 
 
-Now, I work. I have my system of measurement in place. I am beginning to exercise more regularly. If the gym is shutdown, then I go for walks or do a workout in the backyard. 
+Since then, I have started putting different ledgers in place. Like Peter Drucker once said, "What gets measured, gets managed." I am beginning to exercise more regularly. If the gym is shutdown, then I go for walks or do a workout in the backyard. Sometimes the covid19 situation does get to me and I either sleep in or do not leave the house. 
 
 What this post is really about is white space. This is a term from Ori Brafman and Judah Pollack's book titled: ['the chaos imperative'] (https://www.amazon.ca/dp/B00BH0VSIU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
