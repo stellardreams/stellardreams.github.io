@@ -8,7 +8,7 @@ Before I begin, let me articulate, that:
 *  I do not believe that I am very reactive. Definitely not over-reactive. I almost never engage, unless I am engaged by a trusted party. 
 * Also, I have reached out to members of our local government here an I have offered to assist in my limited capacity. 
 * As well, I am a citizen of the world and so I am ready and willing to be engaged by our trusted parties. 
-* Also, this blog-post is not very research on an in-depth basis. So, I am open to be challenged and as it relates to the information that has been presented in this blog-post. I am also open to how blog-posts like these can be improved in the future. I am actually very open to criticism of all kinds. If we focus on the content, the structure and delivery of the content. As well, figure out means of actually improving the processes that led to the enablement of this blogpost in the first place.
+* Also, this blog-post is not very well researched. So, I am open to being challenged and as it relates to the information that has been presented in this blog-post. I am also open to how blog-posts like these can be improved in the future. I am actually very open to criticism of all kinds. If we focus on the content, the structure and delivery of the content. As well, figure out means of actually improving the processes that led to the enablement of this blogpost in the first place.
 
 # What coronavirus is not (Unless the evidence presented is to the contrary)
 Next, let's dispel what coronavirus is *not*:
