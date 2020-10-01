@@ -1,6 +1,8 @@
 # Enabling new mechanisms for growth in a post covid world:
 I think it's an important question. What is going to power growth in a post coronavirus world. Source: [Impact of Covid19 pandemic](https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic) (Note: I haven't actually reviewed this particular page on Wikipedia. But I have read other articles, been tuning into updates from our Federal government. As well, generally talking to others). 
 
+I don't think I am actually going to classify what, I think is going to power growth in a post-coronavirus reality. But, in this very first iteration of this blog-post, I am going to try and define this problem and share some resources along the way. I welcome others to join and collaborate with me on this and other endeavours highlighted on this site.
+
 # Disclosure
 Before I begin, let me articulate, that:
 *  I do not believe that I am very reactive. Definitely not over-reactive. I almost never engage, unless I am engaged by a trusted party. 
