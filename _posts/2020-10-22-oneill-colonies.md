@@ -1,4 +1,4 @@
-It seems highly unlike that we'd find a mix or two particular gases on a non-terrestrial planet. Whereby the particular mixture could be attributed to causes that are geological in nature and not biological. 
+It seems highly unlikely that we'd find a mix or two particular gases on a non-terrestrial planet. Whereby the particular mixture could be attributed to causes that are geological in nature and not biological. 
 
 So primarily for this reason, I've had to rethink the strategy of breathing life into non-terrestrial habitats. 
 
