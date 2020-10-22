@@ -1,0 +1,33 @@
+It seems highly unlike that we'd find a mix or two particular gases on a non-terrestrial planet. Whereby the particular mixture could be attributed to causes that are geological in nature and not biological. 
+
+So primarily for this reason, I've had to rethink the strategy of breathing life into non-terrestrial habitats. 
+
+I think there is a strong [astrobiology](https://en.wikipedia.org/wiki/Astrobiology) element towards making life interplanetary. Primarily with regards to:
+* Our well-being. Scanning the various parts of the habitats that we set foot on, in a very rigorous manner. Letting our probes explore not just the surface. But caves, lakes and all the nooks and crannies. Looking for signs of simpler lifeform and not so simpler lifeforms as well. 
+* As well the well-being of the lifeforms that we end up finding on non-terrestrial habitats. 
+
+What I am beginning to think and wonder is if:
+* Life that we are going to introduce outside of earth, is mainly going to thrive in large scale [O'Neill cylinders](https://en.wikipedia.org/wiki/O%27Neill_cylinder)
+* What necessary set of breakthroughs would we have to get to and in which set of timeframes, in order to equip ourselves to move further along on the [Kardashev scale)(https://en.wikipedia.org/wiki/Kardashev_scale). I think the Kardashev scale would then have to be further described in a decimal point system. 
+
+I don't think that it's just a simple categorization and as it relates to the evolution of a civilization on the Kardashev scale. Because biology has powered incredible constructs over a longer stretch of time. And without the means and ability to be able to recreate life in all of the intricate set of patterns. There is the real and inherent need and as it relates to protecting our ecology. 
+
+Because if something were to go awry in the ecology. If the interdependent nature of natural systems is something that is negatively impacted, as a result of too much human activity. And if it happens to collapse, then it's redundant if humans can indeed collect and make use of all the energy falling on their planet, their solar system or across the galaxy. 
+
+There is also the angle of timing successive cycles of innovation and there are at the very least, two different schools of thought here. 
+
+Anyhow, to come back to the topic that I started with. My intuitive guess is that the future of our descendants, which includes different branches in human evolution is going to be in these constructs that are going to float in the void of space. 
+
+With advanced, safe and functional nano-technology, there is going to be a wide and diverse array of such habitats that are going to develop and float in the void of space. In due course of time, some of these very structures are going to leave our solar system. Perhaps, never to return back. 
+
+I think that further gains and as it relates to taking steps towards general purposed intelligence that is substrate independent. That these gains are going to be pivotal towards driving progress towards enabling further advances in nano-technology in a manner that can be deemed safe/effective and whereby there is a high degree of probability that the use of such technologies is going to be used for purposes that are deemed moral and ethical. Again, it's a good question about who's value. But here is to hoping that common sense and gentle and kinder ways of looking at things prevails. 
+
+It's also possible that subsequent gains are going to be made in the areas of synthethic biology and next-gen sequencing. (nth level). So, if we do happen to find microbial life on other habitats, then we are going to absorb and live with these beings in a symbiotic level. However, this way of thinking still doesn't sit too well on the ethical scale. Meaning, we may have learned to live with those simpler lifeforms in a symbiotic sense. But what we do not know or are not able to simulate is if those simpler lifeforms would indeed evolve to something a lot more complex in 4 to 6 billion years of a time. 
+
+So, at this point in time and given the little amount of information that I have gather about this topic. I'd say that the prospect for powering growth, for making life interplanetary and the actual living habitats for our descendants is most probably going to be developments in the realm of Oneill colonies. And that these developments will take a life of their own.
+
+My biology is weak, but if life is going to spread across the galaxy and eventually across the univers in O'Neill type structures. Then this move, will be equivalent to cellular structures on earth merging together to create beautiful and elaborate structures. And in an evolutionary sense, this adaptation proved to be very very beneficial for simpler cellular machinery. Leading to shielding from excessive radiation, from other harm (volcanoes, temperature changes e.t.c) and resulting into extending the lifespan of these cellular creatures. With O'Neill structures, we will become the cellular structures inside larger constructs that are aware and sentient. Maybe we can make them large enough and enable the architecture in such a way, so that no matter what the O'Neill structure does, we are safe and secure on the inside. Building enough bio-feedback loops for these beings. While ensuring that they remain safe and happy. 
+
+It may be quite useful to make O'Neill structures making use of syn-nano-bio materials. Like I said, we are going to require breakthroughs and as it relates to taking the steps towards general purposed intelligence that is substrate independent, in order to do so. 
+
+What do you think is going to happen? How will life (as we know it in the year 2020) and that originated on earth, is going to become multi-planetary? 
