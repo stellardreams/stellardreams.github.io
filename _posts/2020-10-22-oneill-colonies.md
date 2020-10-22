@@ -8,7 +8,7 @@ I think there is a strong [astrobiology](https://en.wikipedia.org/wiki/Astrobiol
 
 What I am beginning to think and wonder is if:
 * Life that we are going to introduce outside of earth, is mainly going to thrive in large scale [O'Neill cylinders](https://en.wikipedia.org/wiki/O%27Neill_cylinder)
-* What necessary set of breakthroughs would we have to get to and in which set of timeframes, in order to equip ourselves to move further along on the [Kardashev scale)(https://en.wikipedia.org/wiki/Kardashev_scale). I think the Kardashev scale would then have to be further described in a decimal point system. 
+* What necessary set of breakthroughs would we have to get to and in which set of timeframes, in order to equip ourselves to move further along on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). I think the Kardashev scale would then have to be further described in a decimal point system. 
 
 I don't think that it's just a simple categorization and as it relates to the evolution of a civilization on the Kardashev scale. Because biology has powered incredible constructs over a longer stretch of time. And without the means and ability to be able to recreate life in all of the intricate set of patterns. There is the real and inherent need and as it relates to protecting our ecology. 
 
