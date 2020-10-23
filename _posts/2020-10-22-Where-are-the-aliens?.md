@@ -26,6 +26,18 @@ If we focus on the prospect of finding life and then intelligent life across thi
 
 So this is where the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox) kicks in. If the probabilities could/do indicate that there must be a x number of intelligent civilizations out there, beaming some kind of a signal across the Galaxy and the wider universe at that. Then where are these beings? Where are the signals? (Other than that one time - [the wow signal](https://en.wikipedia.org/wiki/Wow!_signal)) Where are the [Dyson spheres](https://en.wikipedia.org/wiki/Dyson_sphere), [ringworlds](https://en.wikipedia.org/wiki/Ringworld) and other mega structures?
 
-It's a valid question and I would add intelligent/communicating civilization across the dimensions of space and also time (time traveler)
+Yes, we have barely started looking. But, so far there isn't any observable sign that would indicate the presence of an advance/somewhat intelligent civilization leaving behind some kind of a marker for it's existence, anywhere across the galaxy or the wider universe at that. 
 
-I have to hop on a call. I am going to come back and finish the remainder of this blogpost tonight.
+Next, this is not a novel thought, but the Fermi paradox also applies to dimensions of time. If there are time travellers amongst us, then where are they? I'd think that it will be substantially a lot more tricker to spot a time traveller than it will be to spot a mega structure, a gas signature around a planet (Seager's equation), communication patterns that are being beamed all over the place (But we just can't dial into the right frequency) and a lot more. 
+
+And so, we go back to the title of the blogpost. Where are the [ALFs](https://www.imdb.com/title/tt0090390/), [the E.Ts](https://www.imdb.com/title/tt0083866/), [the Vulcans](https://memory-alpha.fandom.com/wiki/Vulcan), the Klingons, the Ferengi. Where are the [Nordic aliens](https://en.wikipedia.org/wiki/Nordic_aliens), the blue avians (If they do visit, what must they think about us devouring birds). 
+
+Almost 24 years have passed and we've yet to make [contact](https://www.imdb.com/title/tt0118884/) or even come close to doing so. But, not unless you listen to folks like (including, but not limited to) and in random order:
+- [Gordon Cooper](https://en.wikipedia.org/wiki/Gordon_Cooper): [Source 1](https://youtu.be/La98OUilZC4) [Source 2](https://www.youtube.com/watch?v=dvPR8T1o3Dc)
+- [Edgar Mitchell from the Apollo 14 mission](https://www.military.com/off-duty/navy-astronaut-and-6th-man-moon-believed-alien-intervention.html)
+- Governor Jimmy Carter (At the time) Once [filed a report](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident), indicating that he and others had witnessed a UFO (Unidentified Flying Object). However, he later clarified his position (on Wolf Blitzer's segment on CNN) and indicated that he did not believe that this was an alien spacecraft. 
+- [Dr. Steven M Greer](https://en.wikipedia.org/wiki/Steven_M._Greer) has done a fair bit of work in this space. It's been about a decade, since I looked him up again or the work that Mr. Greer has been doing. I did watch the original 'Disclosure project' and I remember watching at least two hours of testimonies by former military, intelligence and government officials. I think, this is a [link](https://siriusdisclosure.com/videos-on-demand/) to his website. I am not sure. I haven't had a chance to see any of the newer documentaries. (Since 2010 ish).
+- [Paul Hellyer](https://en.wikipedia.org/wiki/Paul_Hellyer#Extraterrestrial_intelligence_claims) Extra-ordinary claims. However, no evidence has been presented (to date) in order to be able to back up the hypotheses. 
+- [Colonel Philip J. Corso](https://en.wikipedia.org/wiki/Philip_J._Corso) 
+
+(Work in progress. 23:02 Eastern)
