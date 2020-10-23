@@ -24,7 +24,7 @@ If we focus on the prospect of finding life and then intelligent life across thi
 
 `The question is, with the higher estimate being shy of the 1 trillion planet mark across the Milky Way. Why is it that we haven't noticed any observable signs for intelligent life.`
 
-So this is where the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox) kicks in. If the probabilities could/do indicate that there must be a x number of intelligent civilizations out there, beaming some kind of a signal across the Galaxy and the wider universe at that. Then where are these beings?
+So this is where the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox) kicks in. If the probabilities could/do indicate that there must be a x number of intelligent civilizations out there, beaming some kind of a signal across the Galaxy and the wider universe at that. Then where are these beings? Where are the signals? (Other than that one time - [the wow signal](https://en.wikipedia.org/wiki/Wow!_signal)) Where are the [Dyson spheres](https://en.wikipedia.org/wiki/Dyson_sphere),[ringworlds](https://en.wikipedia.org/wiki/Ringworld) and other mega structures?
 
 It's a valid question and I would add intelligent/communicating civilization across the dimensions of space and also time (time traveler)
 
