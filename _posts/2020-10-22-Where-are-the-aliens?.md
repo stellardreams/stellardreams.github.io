@@ -22,7 +22,7 @@ Next, about two years ago I made the following video [link](https://youtu.be/2kc
 
 If we focus on the prospect of finding life and then intelligent life across this Galaxy that we are a part of (The Milky Way). So, we are looking at anywhere from 100 to 400 Billion stars. So, 200 to 800 Billion planets. Again, I think the actual figure could be a lot more. 
 
-| The question is, with the higher estimate being shy of the 1 trillion planet mark across the Milky Way. Why is it that we haven't noticed any observable signs for intelligent life. 
+|The question is, with the higher estimate being shy of the 1 trillion planet mark across the Milky Way. Why is it that we haven't noticed any observable signs for intelligent life. 
 
 So this is where the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox) kicks in. If the probabilities could/do indicate that there must be a x number of intelligent civilizations out there, beaming some kind of a signal across the Galaxy and the wider universe at that. Then where are these beings?
 
