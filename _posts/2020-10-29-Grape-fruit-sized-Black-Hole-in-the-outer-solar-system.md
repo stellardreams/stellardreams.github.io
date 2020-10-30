@@ -5,9 +5,9 @@ Over the summer, the following news item caught my attention.
 * First of all, the title is misleading. Because no planetary body has been identified in the [Trans-Neptunian region](https://en.wikipedia.org/wiki/Planets_beyond_Neptune), something that can actually be categorized as a planet. Or a structure with the kind of gravitional pull that has been suspected. 
 * That being said, if there is indeed a [Black Hole](https://en.wikipedia.org/wiki/Black_hole#:~:text=A%20black%20hole%20is%20a,to%20form%20a%20black%20hole.) in a specific range. In such a scenario and given a particular (x) probability attached to this hypothetical event, we should be expending a lot more resources to figure out what this is and what the implications could possibly be.
 
-I think, when I use the words 'specific range', what I may be referring to is the [Schwarzschild radius](https://en.wikipedia.org/wiki/Schwarzschild_radius#:~:text=The%20Schwarzschild%20radius%20(sometimes%20historically,of%20a%20Schwarzschild%20black%20hole.)
+Next, I believe the 'specific range' that I was referring to is actually called the [Schwarzschild radius](https://en.wikipedia.org/wiki/Schwarzschild_radius)
 
-As of right now, there is a [small team of three individuals at Harvard](https://www.cfa.harvard.edu/news/2020-13) who have been looking into this. 
+Related to this new item:  As of right now, there is a [small team of three individuals at Harvard](https://www.cfa.harvard.edu/news/2020-13) who have been looking into this. 
 
 Now, if this object does have a, quote "mass of five to ten times that of the Earth.". What matters in this situation is:
 * The actual orbit and trajectory of this thing. 
