@@ -3,7 +3,7 @@ Over the summer, the following news item caught my attention.
 [Planet Nine could be a grapefruit-sized black hole, say astrophysicists](https://www.sciencefocus.com/news/planet-nine-could-be-a-grapefruit-sized-black-hole-say-astrophysicists/)
 
 * First of all, the title is misleading. Because no planetary body has been identified in the [Trans-Neptunian region](https://en.wikipedia.org/wiki/Planets_beyond_Neptune), something that can actually be categorized as a planet. Or a structure with the kind of gravitional pull that has been suspected. 
-* That being said, if there is indeed a [Black Hole](https://en.wikipedia.org/wiki/Black_hole#:~:text=A%20black%20hole%20is%20a,to%20form%20a%20black%20hole.) in a specific range. In such a scenario and given a particular (x) probability attached to this hypothetical event, we should be expending a lot more resources to figure out what this is and what could the implications could possibly be.
+* That being said, if there is indeed a [Black Hole](https://en.wikipedia.org/wiki/Black_hole#:~:text=A%20black%20hole%20is%20a,to%20form%20a%20black%20hole.) in a specific range. In such a scenario and given a particular (x) probability attached to this hypothetical event, we should be expending a lot more resources to figure out what this is and what the implications could possibly be.
 
 I think, when I use the words 'specific range', what I may be referring to is the [Schwarzschild radius](https://en.wikipedia.org/wiki/Schwarzschild_radius#:~:text=The%20Schwarzschild%20radius%20(sometimes%20historically,of%20a%20Schwarzschild%20black%20hole.)
 
