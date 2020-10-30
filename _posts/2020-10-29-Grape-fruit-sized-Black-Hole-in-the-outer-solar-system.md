@@ -28,6 +28,6 @@ Coming back to the subject, if a black-hole of this scale is indeed in the outer
 
 Related Notes:
 * I got a sense of how far away the outer solar system is, when I was talking to [Iwin](https://www.linkedin.com/in/iwinmatthew) a couple of months ago. At that time, I kind of knew that in terms of light distance or speed of light, Neptune is a good 4 hours away from the sun. Roughly about the same time from earth, as it takes 8 minutes for sunlight to get to earth. 
-* In terms of actual distance, Earth is a 149 million km from the Sun. And Neptune is 4.49 **billion** kms from the sun. So do the math. This does go back to the questions I started with, what is the actual orbit and trajectory of this thing and the speed that it is moving at. 
+* In terms of actual distance, Earth is 149 million km(s) from the Sun. Neptune is 4.49 **billion** kms from the sun. So do the math. This does go back to the questions I started with, what is the actual orbit and trajectory of this thing and the speed that it is moving at. 
 
 Overall, has anyone been looking into this in a bit more detail? Would love to learn more.
