@@ -18,7 +18,7 @@ Again, if this exists then the best case scenario would be that some comets and 
 
 Next
 * From the perspective of the current state of the technological development of our species, I guess we aren't really sending probes **inside** of this thing. Or even near x distance from it. From what little I gather, the probes would just melt or the information would be stripped away (Depends on how a black hole actually does it's thing)
-* It would be pretty coold, **if** we could send some kind of a probe inside and through a black hole. Something at this (yet to be verified) and also of other scales of gravitational pull. **If** the probe could actually survive that journey, then that would be even cooler! (or hotter or something else). 
+* It would be pretty cool, **if** we could send some kind of a probe inside and through a black hole. Something at this (yet to be verified) and also of other scales of gravitational pull. **If** the probe could actually survive that journey, then that would be even cooler! (or hotter or something else). 
 
 Although, I wonder how [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity) would play out. I guess that would determine upon how *long* information actually has to travel through. First when the space time distortion is occuring and then *at* and then beyond the [singularity](https://en.wikipedia.org/wiki/Gravitational_singularity). Do the equations of classical relativity even hold steady around and in a black hole? 
 
