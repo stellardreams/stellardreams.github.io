@@ -12,15 +12,22 @@ Related to this new item:  As of right now, there is a [small team of three indi
 Now, if this object does have a, quote "mass of five to ten times that of the Earth.". What matters in this situation is:
 * The actual orbit and trajectory of this thing. 
 * The rate at which it is moving about it's orbit/trajectory. 
-* Contingent upon what this thing really is (if it exists), how will it be impacting comets/asteroids/planets and maybe even the sun. If it were to come into contact with an entity in either one of these scales. I guess that's three different set of large scale simulation, whereby depending on the size comets and asteroids could be lumped into a single category.
+* Contingent upon what this thing really is (if it exists), how will it be impacting comets/asteroids/planets and maybe even the sun. If it were to come into contact with an entity in either one of these scales. I guess those are three different set of large scale simulations. Depending on the size, comets and asteroids could be lumped into a single category. It really depends upon the size. 
 
 Again, if this exists then the best case scenario would be that some comets and asteroids are disturbed and either just whiz around the solar system or are swallowed in. I actualy have no idea what I am talking about here. And so, when it comes to the worst case scenario, I have absolutely no idea what the gravitional pull of this object is really like. So, it's hard to extrapolate what the best and also worst case scenario may actually turn out to be. 
 
-Next, I am assuming and from the perspective of our current technological development, I guess we aren't really sending probes inside this thing. Or even near x distance from it. 
+Next
+* From the perspective of the current state of the technological development of our species, I guess we aren't really sending probes inside this thing. Or even near x distance from it. From what little I gather, the probes would just melt or the information would be stripped away (Depends how a black hole actual does it's thing)
+* It would be pretty coold, **if** we could send some kind of a probe inside and through a black hole. Something at this (yet to be verified) and also of other scales of gravitational pull. **If** the probe could actually survive that journey, then that would be even cooler! (or hotter or something else). 
 
-But, if a black-hole of this scale is indeed in the outer solar system, then I'd think (from my uneducated perspective) that this is something that warrants a lot more attention.
+Although, I wonder how [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity) would play out. I guess that would determine upon how *long* information actually has to travel through. First when the space time distortion is occuring and then *at* and then beyond the [singularity](https://en.wikipedia.org/wiki/Gravitational_singularity). Do the equations of classical relativity even hold steady around and in a black hole? 
 
-Note: I got a sense of how far away the outer solar system is, when I was talking to [Iwin](https://www.linkedin.com/in/iwinmatthew) a couple of months ago. At that time, I kind of knew that in terms of light distance or speed of light, Neptune is a good 4 hours away from the sun. Roughly about the same time from earth, as it takes 8 minutes for sunlight to get to earth. In terms of actual distance, Earth is a 149 million km from the Sun. And Neptune is 4.49 **billion** kms from the sun. So do the math. This does go back to the questions I started with, what is the actual orbit and trajectory of this thing and the speed that it is moving at. 
+I guess it really has to do with the nature of space time inside a black hole and much time would have elapsed. This is all hypothetical, but it's interesting to think about this. Imagine actually being able to, somehow peer through the black hole and into another universe. Or maybe we will be peering into a [greater/larger black hole](https://en.wikipedia.org/wiki/Multiverse#Black-hole_cosmology).
 
+Coming back to the subject, if a black-hole of this scale is indeed in the outer solar system, then I'd think (from my uneducated perspective) that this is something that warrants a lot more attention.
 
-Has anyone been looking into this in a bit more detail? Would love to learn more.
+Related Notes:
+* I got a sense of how far away the outer solar system is, when I was talking to [Iwin](https://www.linkedin.com/in/iwinmatthew) a couple of months ago. At that time, I kind of knew that in terms of light distance or speed of light, Neptune is a good 4 hours away from the sun. Roughly about the same time from earth, as it takes 8 minutes for sunlight to get to earth. 
+* In terms of actual distance, Earth is a 149 million km from the Sun. And Neptune is 4.49 **billion** kms from the sun. So do the math. This does go back to the questions I started with, what is the actual orbit and trajectory of this thing and the speed that it is moving at. 
+
+Overall, has anyone been looking into this in a bit more detail? Would love to learn more.
