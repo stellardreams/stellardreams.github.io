@@ -23,6 +23,9 @@ Again, if this exists. Then, from my extremely limited vantage point, the best a
 
 Overall, it's impossible for me to really extrapolate what the best and also worst case scenario may actually turn out to be. I am assuming that the team at Harvard is thinking about these issues.
 
+Update on October 31, 2020: I've been told that this object may have negligible gravitational influence on earth. There is no risk of this object impacting Milankovitch cycles. I was also educated that some 35 years it was hypothesized that the Sun is bound to a companion star. A [Nemesis star](https://en.wikipedia.org/wiki/Nemesis_(hypothetical_star)) was it was called. The [WISE telescope](https://en.wikipedia.org/wiki/Wide-field_Infrared_Survey_Explorer) has not been able to find any evidence of any such companion star. 
+
+
 Next
 * From the perspective of the current state of the technological development of our species, I guess we aren't really sending probes **inside** of this thing. Or even near x distance from it. From what little I gather, the probes would just melt or the information would be stripped away (Depends on how a black hole actually does it's thing)
 * It would be pretty cool, **if** we could send some kind of a probe inside and through a black hole. Something at this (yet to be verified) and also of other scales of gravitational pull. **If** the probe could actually survive that journey, then that would be even cooler! (or hotter or something else). 
