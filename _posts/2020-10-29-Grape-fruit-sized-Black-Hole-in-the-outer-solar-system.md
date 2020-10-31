@@ -23,7 +23,7 @@ Again, if this exists. Then, from my extremely limited vantage point, the best a
 
 Overall, it's impossible for me to really extrapolate what the best and also worst case scenario may actually turn out to be. I am assuming that the team at Harvard is thinking about these issues.
 
-Update on October 31, 2020: I've been told that this object may have negligible gravitational influence on earth. There is no risk of this object impacting Milankovitch cycles. I was also educated that some 35 years it was hypothesized that the Sun is bound to a companion star. A [Nemesis star](https://en.wikipedia.org/wiki/Nemesis_(hypothetical_star)) was it was called. The [WISE telescope](https://en.wikipedia.org/wiki/Wide-field_Infrared_Survey_Explorer) has not been able to find any evidence of any such companion star. 
+Update on October 31, 2020: I've been told that this object may have negligible gravitational influence on earth. **There is no/doesn't appear to be any risk of this object impacting Milankovitch cycles.** I was also educated that some 35 years it was hypothesized that the Sun is bound to a companion star. A [Nemesis star](https://en.wikipedia.org/wiki/Nemesis_(hypothetical_star)) was it was called. The [WISE telescope](https://en.wikipedia.org/wiki/Wide-field_Infrared_Survey_Explorer) has not been able to find any evidence of any such companion star. 
 
 
 Next
