@@ -1,4 +1,4 @@
-Over the summer, the following news item caught my attention. Now before I begin, I must state that my Physics and my AstroPhysics at that is really weak. So, please do question everything that I write here.
+Over the summer, the following news item caught my attention. Now before I begin, I must state that my Physics and my AstroPhysics at that is (are) really weak. So, please do question everything that I write here.
 
 [Planet Nine could be a grapefruit-sized black hole, say astrophysicists](https://www.sciencefocus.com/news/planet-nine-could-be-a-grapefruit-sized-black-hole-say-astrophysicists/)
 
