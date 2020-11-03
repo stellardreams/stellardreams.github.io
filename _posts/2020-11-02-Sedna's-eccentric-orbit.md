@@ -1,9 +1,23 @@
 After I made my the previous blogpost, I started looking into the orbits of some of the other objects in the [Trans-Neptunian System](https://en.wikipedia.org/wiki/Trans-Neptunian_object). These objects are referred to as TNO's. (Trans Neptunian Objects)
 
-I wasn't very familiar with what's really out there in this outer solar system region. The first object that I googled up was [Sedna's](https://en.wikipedia.org/wiki/90377_Sedna) orbit. Sedna's [orbital eccentricty] is quite high. Most of the planetary bodies in the in the inner solar system have a much lower orbital eccentricity. With the exception of Mercury in the inner solar system. And pluto (downgraded to a dwarf planet) in the outer solar system.     
+I wasn't very familiar with what's really out there in this outer solar system region. The first object that I googled up was [Sedna's](https://en.wikipedia.org/wiki/90377_Sedna) orbit. Sedna's [orbital eccentricty](https://en.wikipedia.org/wiki/Orbital_eccentricity) is quite high. Most of the planetary bodies in the in the inner solar system have a [much lower orbital eccentricity](https://nssdc.gsfc.nasa.gov/planetary/factsheet/). With the exception of Mercury in the inner solar system. And pluto (downgraded to a dwarf planet) in the outer solar system.     
 
-Sedna's orbital eccentricity is higher. The orbit is a lot more elliptical, than it is circular. 
+Sedna's orbital eccentricity is way higher. The orbit is a lot more elliptical, than it is circular. 
 <img src="/assets/images/sedna-orbit.png">
+
+| | Mass  | Orbital Eccentricity  |
+| :------------- | :-------------: |
+| `Mercury` | 0.2056 | 
+| `Venus` | 0.0068 | 
+| `Earth` | 0.0167 | 
+| `Mars` | 0.0934 | 
+| `Jupiter` | 0.0484 | 
+| `Saturn` | 0.0542 | 
+| `Uranus` | 0.0472 |
+| `Neptune` | 0.0086 |
+| `Pluto` |  0.2488 | 
+| `Sedna` | * **0.84259** *  | 
+
 
 
 The questions that I am thinking of:
