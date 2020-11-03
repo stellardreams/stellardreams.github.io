@@ -1,12 +1,19 @@
 Yesterday, the following two movies came up in my feed. 
 
-First up was the movie by the title of . . 
-
-The second movie/documentary is a Germany-American production titled 
-
 |  Movie  | Release Date  | Storyline | Other Notes | 
 | :------------- | :------------- | :------------- | :------------- |
 | [The Day After](https://www.imdb.com/title/tt0085404/) |1983| Soviet and American nukes go off. The devastating effects are witnessed, focusing on a small town in Eastern Kansas. | Starring familiar faces like [John Lithgow](https://www.imdb.com/name/nm0001475/). In particular, I remember watching Lithgow on [Harry and the Hendersons](https://www.imdb.com/title/tt0093148/), which was a pretty cool and entertaining tv show. Also, [Steve Guttenberg](https://www.imdb.com/name/nm0000430/?ref_=tt_cl_t3) whom I recall from movies like [Three men and a baby](https://www.imdb.com/title/tt0094137/?ref_=nm_knf_t1) and the hilarious [Police Academy Franchise](https://en.wikipedia.org/wiki/Police_Academy_(franchise)). I had never seen Steve Guttenberg doing such a serious role before. | 
-| [Super Comet : After the Impact](https://www.imdb.com/title/tt1273815/) | 2007| A [comet](https://en.wikipedia.org/wiki/Comet) travelling at a super high speed, smacks earth near the Yucatan peninsula. I think, this documentary is actually hypothesizing, what were to happen if an event like [Chicxulub](https://en.wikipedia.org/wiki/Chicxulub_crater) were to happen again.   | Please see below |
+| [Super Comet : After the Impact](https://www.imdb.com/title/tt1273815/) | 2007| A [comet](https://en.wikipedia.org/wiki/Comet) travelling at a super high speed, smacks earth near the Yucatan peninsula. I think, this documentary is actually hypothesizing, what were to happen if an event like [Chicxulub](https://en.wikipedia.org/wiki/Chicxulub_crater) were to happen again.   | This movie/documentary is a Germany-American production. But it's in English. |
 
-This blogpost is is a work in progress. As of 17:22 Eastern time. 
+Related to the movie, [The Day After](https://www.imdb.com/title/tt0085404/). I am not very well versed with the history of the issue or topic of [Nuclear Winter](https://en.wikipedia.org/wiki/Nuclear_winter). But that's one major side-effect that was not highlighted in this movie. I guess, this topic had yet to resonate with the wider public. Which kind of makes sense, as the research supporting the theory of Nuclear Winter had yet to be published. ([Source](https://en.wikipedia.org/wiki/Nuclear_winter#Consequences)) mainstream.
+
+For, [Super Comet : After the Impact](https://www.imdb.com/title/tt1273815/), here I am not a scientist. On one hand, the assessment from the various scientists involved seemed to be somewhat balanced. The different scientists hypothesized what the impact of such an event would be on earth and on the human civilization. So it wasn't just the physics and climate. The also hypothesized what the impact would be on the ecology, on culture (dark ages and time to unpack knowledge), on the collective psychology and many other aspects in a post cataclysmic event like this. Also, I think these were real scientists. The story continually shifts between the movie element and then narration from scientists. 
+
+On the other hand, the gist seems to be tilting overwhelmingly towards the side of optimism. Meaning, after the fire and dust would have settled. The remaining humans would adapt to the changing conditions. Related to this point:
+* Chicxulub triggered a [mass extinction](https://en.wikipedia.org/wiki/Chicxulub_crater#Chicxulub_and_mass_extinction) and it would take the next 65 to 66 million years for [shrews](https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Primates) to eventually evolve and become [homo-sapiens](https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Homo_sapiens). 
+
+
+* Next, the Toba super volcano erupted some 75,000 years ago. The claim is that due to the eruption of this super volcano, human population had shrunk to anywhere from 1,000 to 10,000 breeding pairs. The reason being that, quote, a 'volcanic winter of six to ten years and possibly a 1,000 year cooling period' was to ensue.  (Source: [Wikipedia](https://en.wikipedia.org/wiki/Toba_catastrophe_theory))
+the [Toba volcanic catastrophe](https://en.wikipedia.org/wiki/Toba_catastrophe_theory#Genetic_bottleneck_theory) is theorized to have caused a quote, . 
+
+This blogpost is is a work in progress. As of 17:34 Eastern time. 
