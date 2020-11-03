@@ -19,7 +19,7 @@ Most of the planetary bodies in the in the inner solar system have a [much lower
 | `Sedna` |**0.84259**| 
 
 * In fact, if you go to the following page on Wikipedia [Extreme Trans-Neptunian Objects](https://en.wikipedia.org/wiki/Extreme_trans-Neptunian_object#Outer_Solar_System_Origins_Survey) and scroll down just a bit to the table. Then, you will see that all of the objects have a very high rate of orbital eccentricity. 
-* Pictorial representation below. Note, planets up until Neptune are in the inner circles. 
+* Pictorial representation below. Note, 'Objects' (because planets and other masses are clumped together here) up until Neptune are in the inner circles. 
 
 <img src="/assets/images/tno-orbits.png">
 
