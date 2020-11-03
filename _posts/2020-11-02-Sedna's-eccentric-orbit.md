@@ -24,6 +24,7 @@ Most of the planetary bodies in the in the inner solar system have a [much lower
 <img src="/assets/images/tno-orbits.png">
 
 The questions that I am thinking of:
+* To begin ith, why are the orbits of TNOs so elliptical?
 * There must be a relation with regards to the mass of an object and the gravitational pull acting upon. 
 * Why doesn't Sedna and all of these other TNOs get ejected from the solar system?
 * If Sedna/TNOs are in more than one orbit? For example, orbit around the sun and then orbiting around a black-hole?
