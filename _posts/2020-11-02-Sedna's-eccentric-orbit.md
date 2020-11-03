@@ -5,7 +5,7 @@ I wasn't very familiar with what's really out there in this outer solar system r
 Sedna's orbital eccentricity is way higher. The orbit is a lot more elliptical, than it is circular. 
 <img src="/assets/images/sedna-orbit.png">
 
-| | Mass  | Orbital Eccentricity  |
+| | Mass  | Orbital Eccentricity  
 | :------------- | :-------------: |
 | `Mercury` | 0.2056 | 
 | `Venus` | 0.0068 | 
