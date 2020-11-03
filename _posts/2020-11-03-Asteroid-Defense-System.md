@@ -12,6 +12,16 @@ For, [Super Comet : After the Impact](https://www.imdb.com/title/tt1273815/), he
 Continuing on and still on the topic of the sort of review for the movie/documentary  [Super Comet : After the Impact](https://www.imdb.com/title/tt1273815/): On the other hand, the gist seems to be tilting overwhelmingly towards the side of optimism. Meaning:
 * After the fire and dust would have settled. The remaining humans would adapt to the changing conditions. Related to this point: Chicxulub triggered a [mass extinction](https://en.wikipedia.org/wiki/Chicxulub_crater#Chicxulub_and_mass_extinction) and it would take the next 65 to 66 million years for [shrews](https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Primates) to eventually evolve and become [homo-sapiens](https://en.wikipedia.org/wiki/Timeline_of_human_evolution#Homo_sapiens). 
 * On a 75 to 100k year era (Somewhat more recent): The [Toba super volcano](https://en.wikipedia.org/wiki/Toba_catastrophe_theory) erupted some 75,000 years ago. The claim is that due to the eruption of this super volcano, human population had [shrunk](https://en.wikipedia.org/wiki/Toba_catastrophe_theory#Genetic_bottleneck_theory) anywhere from 1,000 to 10,000 breeding pairs. The reason being that, quote, a 'volcanic winter of six to ten years and possibly a 1,000 year cooling period' was to ensue.  
-the [Toba volcanic catastrophe] is theorized to have caused a quote, . 
 
-This blogpost is is a work in progress. As of 17:34 Eastern time. 
+Overall, my super uneducated guess is that the chances of human survival is somewhat better with regards to a super-volcano going off. There are just far too many variables with a major comet or worse, an asteroid striking earth. Also, in each one of these scenarios, we do not factor in situations like nuclear power plants and what were to happen if the plants cannot be shutdown in a safe and timely manner. Plus, many other variables like these. 
+
+Co-incidentally, both of these movies came up in my feed. It wasn't a search string that took me to these movies. 
+
+After watching the two movies I started thinking: 
+* A big chunk related to our long-term survival would involve enabling mechanisms and not just technologies targetted towards tackling threats that could pose an existential risk. 
+* A subset of these mechanisms would involve technological development on a mid to longer term time scale. There are a lot of risks that we have no shielding against. Like a rock of a particular size coming out way at a particular speed, a [GRB (Gamma Ray Burst)](https://en.wikipedia.org/wiki/Gamma-ray_burst)
+* On the other hand, if we turn these very mechanisms on each other then that could also bring an end to our species. As well, all other lifeform on this planet. 
+
+Overall, the human and machine civilization is quite fragile. We will either turn the very mechanisms that we develop on each other and in the process of doing so, be the enablers of our own destruction. Or we may leverage these mechanisms in order to ensure our survival and then our quality of life.
+
+It seems rather foolish to think and assume that the intelligence that we develop and intelligence that is substrate independent (generally referred to as A.I - Artificial Intelligence) is going to solve a whole series of complex problems for us.
