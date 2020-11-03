@@ -285,3 +285,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Collections
+collections:
+- outer solar system
