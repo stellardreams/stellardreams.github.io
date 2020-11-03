@@ -18,16 +18,16 @@ Sedna's orbital eccentricity is way higher. The orbit is a lot more elliptical, 
 | `Pluto` |0.2488| 
 | `Sedna` |**0.84259**| 
 
-
+In fact, if you go to the following page on Wikipedia [Extreme Trans-Neptunian Objects](https://en.wikipedia.org/wiki/Extreme_trans-Neptunian_object#Outer_Solar_System_Origins_Survey) and scroll down just a bit to the table. Then, you will see that all of the objects have a very high rate of orbital eccentricity. 
 
 The questions that I am thinking of:
 * There must be a relation with regards to the mass of an object and the gravitational pull acting upon. 
-* Why doesn't Sedna get ejected from the solar system?
-* Is Sedna in more than one orbit? For example, orbit around the sun and then orbiting around a black-hole?
-* If Sedna is indeed in more than one orbit, then there must be a clever way to figure this out. There must be a change, a dip in Sedna's orbit as it swaps from being in the gravitational hold of one object to another. 
-* As well, as Sedna swaps orbits there must be fluctuations in it's velocity which would be measured. Perhaps by on-board instrumentation. The problem is that Sedna's orbit around the sun is 11,408 years. 
+* Why doesn't Sedna and all of these other TNOs get ejected from the solar system?
+* If Sedna/TNOs are in more than one orbit? For example, orbit around the sun and then orbiting around a black-hole?
+* If Sedna/TNOs are indeed in more than one orbit, then there must be a clever way to figure this out. There must be a change, a dip in their orbit as it swaps from being in the gravitational hold of one object to another. 
+* As Sedna/TNOs swap orbits, there must be fluctuations in it's velocity. These fluctations could then be measured. Perhaps by on-board instrumentation. The problem is that these orbits are long. For example, Sedna's orbit around the sun is 11,408 years. 
 
-So far there is no evidence that Planet X exists. There have been other theories that have been put fort. For example, this theory that I just read about, a collection of icy bodies making a disc of sorts. [link](https://medium.com/predict/planet-nine-ruled-out-as-the-cause-of-outer-solar-system-mystery-orbits-9846266bd073)
+Overall: So far there is no evidence that Planet X exists. There have been other theories that have been put forth. For example, this theory that I just read about, a collection of icy bodies making a disc of sorts. [link](https://medium.com/predict/planet-nine-ruled-out-as-the-cause-of-outer-solar-system-mystery-orbits-9846266bd073)
 
 My uneducated and intuitive guess is that the theory of an actual black-hole in the outer solar system makes more sense. It looks like in addition to Sedna, there are a number of TNOs out there and their orbital eccentricity is much higher.
 <img src="/assets/images/tno-orbit.png">
