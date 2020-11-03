@@ -1,4 +1,4 @@
-After I made my the previous blogpost, I started looking into the orbits of some of the other objects in the [Trans-Neptunian System](https://en.wikipedia.org/wiki/Trans-Neptunian_object). These objects are referred to as TNO's. (Trans Neptunian Objects)
+After publishing the blogpost, I started looking into the orbits of some of the other objects in the [Trans-Neptunian System](https://en.wikipedia.org/wiki/Trans-Neptunian_object). These objects are referred to as TNO's. (Trans Neptunian Objects)
 
 I wasn't very familiar with what's really out there in this outer solar system region. First, I googled up was [Sedna's](https://en.wikipedia.org/wiki/90377_Sedna) orbit. Sedna's [orbital eccentricty](https://en.wikipedia.org/wiki/Orbital_eccentricity) is quite high. Most of the planetary bodies in the in the inner solar system have a [much lower orbital eccentricity](https://nssdc.gsfc.nasa.gov/planetary/factsheet/). With the exception of Mercury in the inner solar system. And pluto (downgraded to a dwarf planet) in the outer solar system.     
 
