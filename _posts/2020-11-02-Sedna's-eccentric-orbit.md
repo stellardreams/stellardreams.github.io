@@ -30,7 +30,7 @@ The questions that I am thinking of:
 Overall: So far there is no evidence that Planet X exists. There have been other theories that have been put forth. For example, this theory that I just read about, a collection of icy bodies making a disc of sorts. [link](https://medium.com/predict/planet-nine-ruled-out-as-the-cause-of-outer-solar-system-mystery-orbits-9846266bd073)
 
 My uneducated and intuitive guess is that the theory of an actual black-hole in the outer solar system makes more sense. It looks like in addition to Sedna, there are a number of TNOs out there and their orbital eccentricity is much higher.
-<img src="/assets/images/tno-orbit.png">
+<img src="/assets/images/tno-orbits.png">
 
 
 All images courtesy of Wikipedia. 
