@@ -7,16 +7,16 @@ Sedna's orbital eccentricity is way higher. The orbit is a lot more elliptical, 
 
 |  Mass  | Orbital Eccentricity  |
 | :------------- | :-------------: |
-| `Mercury` | 0.2056 | 
-| `Venus` | 0.0068 | 
-| `Earth` | 0.0167 | 
-| `Mars` | 0.0934 | 
-| `Jupiter` | 0.0484 | 
-| `Saturn` | 0.0542 | 
-| `Uranus` | 0.0472 |
-| `Neptune` | 0.0086 |
-| `Pluto` |  0.2488 | 
-| `Sedna` | * **0.84259** *  | 
+| `Mercury` |0.2056| 
+| `Venus` |0.0068| 
+| `Earth` |0.0167| 
+| `Mars` |0.0934| 
+| `Jupiter` |0.0484| 
+| `Saturn` |0.0542| 
+| `Uranus` |0.0472|
+| `Neptune` |0.0086|
+| `Pluto` |0.2488| 
+| `Sedna` |**0.84259**| 
 
 
 
