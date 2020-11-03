@@ -22,6 +22,6 @@ After watching the two movies I started thinking:
 * A subset of these mechanisms would involve technological development on a mid to longer term time scale. There are a lot of risks that we have no shielding against. Like a rock of a particular size coming out way at a particular speed, a [GRB (Gamma Ray Burst)](https://en.wikipedia.org/wiki/Gamma-ray_burst)
 * On the other hand, if we turn these very mechanisms on each other then that could also bring an end to our species. As well, all other lifeform on this planet. 
 
-Overall, the human and machine civilization is quite fragile. We will either turn the very mechanisms that we develop on each other and in the process of doing so, be the enablers of our own destruction. Or we may leverage these mechanisms in order to ensure our survival and then our quality of life.
+Overall, the human and machine civilization is quite fragile. We will either turn the very mechanisms that we develop on each other and in the process of doing so, be the enablers of our own destruction. Or we may leverage these mechanisms in order to ensure our survival and then work towards increasing our quality of life.
 
-It seems rather foolish to think and assume that the intelligence that we develop and intelligence that is substrate independent (generally referred to as A.I - Artificial Intelligence) is going to solve a whole series of complex problems for us.
+It seems rather foolish to think and assume that the intelligence that we develop and intelligence that is substrate independent (generally referred to as A.I - Artificial Intelligence) is going to solve a whole series of complex problems for us. Once again, I am not a pro intelligence that is subtrate independent fellow or an anti " ". 
