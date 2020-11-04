@@ -1,4 +1,4 @@
-During October (2020), I came across two gems via Youtube. 
+During October (2020), I came across the following two gems via Youtube. 
 
 |  Name and URL | What is this video about  |
 | :------------- | :-------------: |
