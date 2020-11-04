@@ -39,3 +39,9 @@ After watching the two movies I started thinking:
 Overall, the human and machine civilization is quite fragile. We will either turn the very mechanisms that we develop on each other and in the process of doing so, be the enablers of our own destruction. Or we may leverage these mechanisms in order to ensure our survival and then work towards increasing our quality of life.
 
 It seems rather foolish to think and assume that the intelligence that we develop and intelligence that is substrate independent (generally referred to as A.I - Artificial Intelligence) is going to solve a whole series of complex problems for us. Once again, I am not a pro intelligence that is subtrate independent fellow or an anti " ". 
+
+An Asteroid Defense System is a project, something that all nations should have an opportunity to be a part of and have a chance to contribute to. This is not a system that should be enabled in secrecy. Doing so, would only increase the chances that some group/extremist fringe/rogue nation state would want to weaponize such a construct. Which could be a precursor to a tyrannical rule. 
+
+Seeing where the arc of technology is going, it doesn't seem like a project like this is going to cost trillions or even hundreds of billions of dollars (inflation adjusted values). 
+
+But one thing is clear and like one of the scientist had said in the [Super Comet : After the Impact](https://www.imdb.com/title/tt1273815/) documentary. If the event is occuring, then it's almost impossible to enable and then scale technology in hours/days/weeks. (Paraphrased). 
