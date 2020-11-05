@@ -26,7 +26,7 @@ Next, from the perspective of the political angle and how different economic sys
 |  Politics and governance | Economic model and Regulatory framework | Economic sub-model |  
 | :------------- | :------------- | :------------- |
 | Representative Democracy | Capitalism with a regulatory framework in place | Freemarket | 
-| Representative Democracy | Capitalism with a loose or non-existant regulatory framework. Cancerous growth. | Freemarket | 
+| Representative Democracy | Capitalism with a loose or non-existant regulatory framework | Freemarket | 
 | Social Democracy | Somewhat centrally managed. Heavily regulated | Some freemarket activity allowed | 
 | Communist - One party rule | Centrally managed. Loose regulatory framework for the better part, unless in a high demand sector with regular exposure to external facing client. | Some private enterprises allowed | 
 | Dictatorships | Initial conditions determined by the dictator | For the better part, whatever the dictator decides |
