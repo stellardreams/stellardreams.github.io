@@ -31,7 +31,7 @@ To a non-scientist like me. Indeed, it does seem like scientific discovery is a 
 
 So as one would appreciate, it can take hundreds, if not thousands of years in order to be able to build upon certain hypothesis. Provided, there is some mathematical evidence that posits that there is something there and as it relates to the actual theory to be further evaluated. 
 
-What's important to highlight is that it takes a lot of trial and errors, often over an extended time period in order to either unearth a new discover or to build up on the work that has been done in the past. It's also possible that certain models from the past may be refuted, in light of new evidence that helps us demystify and better our understanding in a particular domain. 
+What's important to highlight is that it takes a lot of trial and errors, often over an extended time period in order to either unearth a new discovery or to build up on the work that has been done in the past. It's also possible that certain models from the past may be refuted, in light of new evidence that helps us demystify and better our understanding in a particular domain. 
 
 Overall, civilizations rise and fall. The one thing that is constant is that it takes a couple of core ingredients in order to power prosperity. Science is one of these very pillars. If not the foundational pillar. 
 
