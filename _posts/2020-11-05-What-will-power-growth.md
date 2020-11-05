@@ -10,7 +10,12 @@ Related to the former, it is possible that we are going to make a very clean swi
 
 Related to the latter, it seems like all the jobs that exist today are going to go the route of automation. Perhaps, in as short of a duration, as the next 15 years. I am not sure, if the rate of net job creation is actually going to be at a sufficient enough pace. For the majority of humans to be engaged in work that not only powers a quality standard of living. But that the work is actually meaningful.
 
-From the perspective of the interplay between different forms of governance and how they may or may not assist with further enabling the economic base. Through (including but not limited to and in random order): Helping attract the best and the brightest (immigration reform, path to citizenship e.t.c), tax incentives, government (tax payer supported) subsidies for helping enable newer verticals (for example: solar, clean-tech, energy systems e.t.c), nimble yet effective policy making, helping enact policies that lead to enabling newer sources for funding entrepreneurial endeavours (including but not limited to examples like JOBS Act).
+From the perspective of the interplay between different forms of governance and how they may or may not assist with further enabling the economic base. Through (including but not limited to and in random order): 
+* Helping attract the best and the brightest (immigration reform, path to citizenship e.t.c)
+* Tax incentives.
+* Government (tax payer supported) subsidies for helping enable newer verticals (for example: solar, clean-tech, energy systems e.t.c). 
+* Nimble yet effective policy making.
+* Helping enact policies that lead to enabling newer sources for funding entrepreneurial endeavours (including but not limited to examples like JOBS Act). ++ 
 
 Before I make the segway into the political and governance side of things. I think and I could be wrong about this, but it seems like ‘growth’ means fundamentally different things to different people across the world. 
 
