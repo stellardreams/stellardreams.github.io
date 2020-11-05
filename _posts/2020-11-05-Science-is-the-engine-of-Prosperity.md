@@ -1,8 +1,13 @@
-Often times, I worry that we may be developing tunnel vision at the expense of. 
+> "Science is the engine of prosperity" - Dr. Michio Kaku. 
 
-It's continually wrangling with a seemingly contradictory set of realities, now and in the future. 
+The full quote is available here via Dr. Michio Kaku's channel on Youtube. [link](https://youtu.be/vS84hUfTZ0M) If you are ready this, then I encourage you to listen in and pay attention to these words by Dr. Kaku. 
 
-The tunnel vision aspect relates to investing too deeply or too much and as it relates to specific verticals. Pick your favourite:
+
+Building up on this quote and if I may. Often times, I worry that we may be developing tunnel vision at the expense of. 
+
+It's continually wrangling with a seemingly contradictory set of realities, now and in the future. For me, on one hand I do suspect that for the next couple of decades, growth is mostly going to be driven by verticals across the GANRSSM spectrum. (Genetics, Artificial Intelligence or modelling intelligence that is substrat independent, safe nanotechnology, robotics, synthethic biology, Medicine). But, there are going to be breakthroughs along a lot of different areas. Often, seemingly unrelated areas. And that is the only effective way of powering growth.   
+
+Going back to the tunnel vision aspect relates to investing too deeply or too much and as it relates to specific verticals. We often hear and you can pick your favourites:
 * Blockchain
 * Finance, crypto and fin-tech
 * Artificial Intelligence
@@ -33,11 +38,4 @@ So as one would appreciate, it can take hundreds, if not thousands of years in o
 
 What's important to highlight is that it takes a lot of trial and error, often over an extended time period in order to either unearth a new discovery or to build up on the work that has been done in the past. It's also possible that certain models from the past may be refuted, in light of new evidence that helps us demystify and better our understanding in a particular domain. 
 
-Overall, civilizations rise and fall. The one thing that is constant is that it takes a couple of core ingredients in order to power prosperity. Science is one of these very pillars. If not the foundational pillar. 
-
-Dr. Michio Kaku has summarized this quite well, when he said:
-> "Science is the engine of prosperity" - Dr. Michio Kaku. 
-
-The full quote, along with the warning from Dr. Michio Kaku is available here via his channel on Youtube. [link](https://youtu.be/vS84hUfTZ0M)
-
-
+Overall, civilizations rise and fall. The one thing that is constant is that it takes a couple of core ingredients in order to power prosperity and as Dr. Michio Kaku has identified. Science is one of these very pillars. If not the foundational pillar. 
