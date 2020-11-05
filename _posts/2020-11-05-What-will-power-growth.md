@@ -43,9 +43,9 @@ I guess one example that I can think of is that of the actual economy of the Uni
 * When a system only relies on a finite set of clusters or verticals that are going to drive growth. What this does is, first of all this herd-mentality leads to a lot of smart individuals going into these sectors. Next, because it's the herd mentality driving this growth, when the bubble does burst then this negatively impacts the lives and the quality of lives of a lot of people. 
 * A better alternative would be to power growth across the board. Or have some weights associated with the two tiered model. Investing in research across the board and across specific verticals. 
 
-Overall, my intuitive guess is that you need a middle class and people living in a free environment. People and their children, living in these free environment have the means and ability to be able to think free thoughts. It seems like there may be a higher probability, whereby the continual enablement of new frontier economies is something that could occur in more organically in societies that are more free. 
+Overall, my intuitive guess is that you need a middle class and people living in a free environment. People and their children, living in these free environment have the means and ability to be able to think free thoughts. It seems like there may be a higher probability, whereby the continual enablement of new frontier economies is something that could occur (more organically) across societies that are more free. 
 
-However, at the same time I can also appreciate that this is a rather, simplistic model. Good ideas can come from anywhere. Perhaps, in addition to the forms of governance and economic platforms that we have on the planet today, we should also experiment with newer designs. 
+However, at the same time I can also appreciate that this is a rather, **simplistic model**. Good ideas can come from anywhere. Perhaps, in addition to the forms of governance and economic platforms that we have on the planet today, we should also experiment with newer designs. 
 
 What we do not want is a herd mentality whereby more smart people are heading straight towards what is (all factors considered) an actual bubble. A reality, with little to no grounding in science.
 
