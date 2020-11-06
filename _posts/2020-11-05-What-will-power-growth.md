@@ -49,4 +49,8 @@ However, at the same time I can also appreciate that this is a rather, **simplis
 
 What we do not want is a herd mentality whereby more smart people are heading straight towards what is (all factors considered) an actual bubble. A reality, with little to no grounding in science.
 
-Note: Highlighting the example of the F.I.R.E economy is not to suggest that there should be a focus on re-enabling the manufacturing sector. In addition to the points raised, one of the intent here is that a) That scientific progress should (maybe) be driving the bulk of the growth vs a reliance on sectors, whereby growth is susceptible to economic bubbles. b) Diversification. 3 sectors should not be driving 30% of the GDP (approximation)
+Note: 
+* Highlighting the example of the F.I.R.E economy is not to suggest that there should be a focus on re-enabling the manufacturing sector. In addition to the points raised, one of the intent here is that a) That scientific progress should (maybe) be driving the bulk of the growth vs a reliance on sectors, whereby growth is susceptible to economic bubbles. b) Diversification. 3 sectors should not be driving 30% of the GDP (approximation).
+* None of what I say here in this blogpost and elsewhere ought to be classified as a declaration. If anything, the intent is to kickstart a discussion around the central topic of what is actually going to be driving growth. What set of strategies and options should be tried?
+
+
