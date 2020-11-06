@@ -3,7 +3,7 @@ After publishing the [previous blogpost](https://stellardreams.github.io/Grape-f
 I wasn't very familiar with what's really out there in this outer solar system region. First, I googled [Sedna's](https://en.wikipedia.org/wiki/90377_Sedna) orbit. Sedna's [orbital eccentricty](https://en.wikipedia.org/wiki/Orbital_eccentricity) is quite high. It's orbit is a lot more elliptical. Compared to the somewhat circular (not as elliptical) orbits from Mercury to Pluto. 
 <img src="/assets/images/sedna-orbit.png">
 
-Most of the planetary bodies in the in the inner solar system have a [much lower orbital eccentricity](https://nssdc.gsfc.nasa.gov/planetary/factsheet/). With the exception of Mercury in the inner solar system. And Pluto (downgraded to a dwarf planet) in the outer solar system.  Even then, there's an order of magnitude of a difference when you compare Mercury or Pluto's orbital eccentriciy to Sedna or the other TNOs   
+Most of the planetary bodies in the in the inner solar system have a [much lower orbital eccentricity](https://nssdc.gsfc.nasa.gov/planetary/factsheet/). With the exception of Mercury in the inner solar system. And Pluto (downgraded to a dwarf planet) in the outer solar system.  Even then, Sedna's orbital eccentricity is way higher. (Or the other TNOs at that).  
 
 |  Object  | Orbital Eccentricity  |
 | :------------- | :-------------: |
