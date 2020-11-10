@@ -4,8 +4,8 @@ Related to this topic, the thought that I've been thinking of today, is the actu
 
 I think the most likely methods of mitigating such a threat may come down to:
 * Deflection. [Source - Asteroid impact avoidance page on Wikipedia](https://en.wikipedia.org/wiki/Asteroid_impact_avoidance)
-* Destruction. Although, I am not sure if this strategy is likely to yield the results that we'd want to seek. [Source](https://www.discovermagazine.com/the-sciences/destroying-an-incoming-asteroid-is-even-harder-than-scientists-thought)
-* Controlled destruction and deflection (in bits and pieces). Same comment as above. I guess, leveraging this tactic would be based upon a) When the threat is intercepted b) The level of technological sophistication and c) How much lead time we have before impact. 
+* Destruction. We are conditioned to think this way, that we can blow up an asteroid into smithereens. But in it's current form, I am not sure if this strategy is actually going to work. [Source](https://www.discovermagazine.com/the-sciences/destroying-an-incoming-asteroid-is-even-harder-than-scientists-thought). If and that's a big if, if this stratgy is somehow made to work. Even in such a situation, there are other variables involved. a) The level of technological sophistication b) As I have shared in previous posts, if the defense systems have been provisioned in the first place c) When the threat is actually intercepted and how much lead time is to be had prior to the materilization of risk. 
+* Controlled destruction and deflection (in bits and pieces). Same comment as above. 
 
 That being said, this is not a blog-post about the methods that are most likely going to be leveraged. 
 
