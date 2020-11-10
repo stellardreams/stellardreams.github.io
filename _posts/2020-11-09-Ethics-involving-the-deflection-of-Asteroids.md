@@ -1,6 +1,6 @@
-One of the blog-posts from last week focused on the general observation of why an [asteroid defense system or anti-asteroid DS](https://stellardreams.github.io/Asteroid-Defense-System/) is necessary. As well, how it usually takes a longer duration for a mega-project like this to actually begin to be leveraged in a functional state. 
+One of the blog-posts from last week focused on the general observation of why an [asteroid defense system or anti-asteroid DS](https://stellardreams.github.io/Asteroid-Defense-System/) is necessary. As well, how it usually takes a longer duration for a mega-project like this to come to fruition (and then become functional with x probability attached to the rate of success).
 
-The thought that I've been thinking of today, is the actual steps that the solar system based lifeform are most likely to take. And again, this is contingent upon what kind of systems have been enabled for this very purpose. 
+Related to this topic, the thought that I've been thinking of today, is the actual steps that the solar system based lifeform are most likely to take. And again, this is contingent upon what kind of systems have been enabled for this very purpose. 
 
 I think the most likely methods of mitigating such a threat would come down to:
 * Deflection
