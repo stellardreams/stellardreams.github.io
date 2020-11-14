@@ -1,0 +1,28 @@
+During the past couple of days, I've spent a fair chunk of time looking into [volcanism](https://en.wikipedia.org/wiki/Volcanism#:~:text=Volcanism%20(or%20volcanicity)%20is%20the,the%20surface%20called%20a%20vent.) As well, the possibility of an asteroid on a potential collision course with earth. 
+
+For Volcanism, basically we have no defense against a volcano that is about 8 or greater on the VEI (Volcanic explosivity index). The Toba catastrophe was a level 8. There are two different perspectives, with regards to whether the Toba explosion did or did not cause a genetic bottleneck. But there have been other volcanoes in the past that have caused big problems. It looks like there was significant volcanic activity, in around the same time that Chicxulub happened (64 to 66 million years ago). Volcanism is suspected and as it relates to the extinction event 252 million years ago ([Permian Triassic extinction])(https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event#Volcanism)
+
+For an asteroid, that is on a potential collision course with earth. Depending on the size of the asteroid, we have zero plans. Neil De Grasse Tyson (via Joe Rogan), estimates that if we started and funded such a project today. That, it would take 10 years to see something materialize or see something functional. (paraphrased). 
+
+Overall:
+
+The probability of a volcano (with a VEI of 8 or higher) erupting is categorized as low. Dr. Michio Kaku has some estimates here, but the math is based on averages. [USGS](https://www.usgs.gov/) monitors the Yellowstone Caldera very closely and has been doing so for decades. 
+* Based on the [following article](https://missoulian.com/news/state-and-regional/paper-says-governments-need-to-prepare-for-catastrophes-like-yellowstone-eruption/article_58343d1b-96ff-5ae5-b840-c25ddce66fa6.html), quote "Most of the big volcanoes around the world are not monitored”. That article was published in the year 2016. The following year, there was a news article via BBC news that, quote [Sentinel (European) satellites to monitor every volcano](https://www.bbc.com/news/science-environment-39642372). But the question is, is there a detection and warning system in place, should a significant eruption were to occur (VEI 7, definitely VEI 8 and higher) 
+
+The probability of an asteroid strike. Well, the solar system is a big place. I am not sure if **all** the asteroids have been detected. My super uneducated guess is that the discoveries have mostly been made and as it relates to NEOs (Near earth objects). I have no idea, what percentage of rocks have been identified and catalogued in the [asteroid belt](https://en.wikipedia.org/wiki/Asteroid_belt#Exploration). Same for [trojan asteroids](https://en.wikipedia.org/wiki/Trojan_(celestial_body)#:~:text=In%20astronomy%2C%20a%20trojan%20is,planets%20or%20of%20large%20moons.) in the same orbit as Jupiter. No idea about beyond this real-estate and towards the [Oort cloud](https://phys.org/news/2015-08-oort-cloud.html).
+* The thing is, [Oumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua) came from another star system. As well, we have no idea what lies in the generally direction of where our solar system is headed towards. In the movie, [Interstellar](https://www.imdb.com/title/tt0816692/), the main problem are that: Crops are failing, there are dust bowls and oxygen levels are dropping. I guess the question is where did all that dust come from. Was the solar system going through a massive dust bowl in the galaxy (across light year distances). What if it there is actually a stretch of the galaxy that is like that. But instead of dust, it's a lot of rocks. The remnants of a supernova. 
+
+Should a catastrophic risk were to occur, whereby life as we know it could not survive on the survive. And should this risk materialize in the near-term time horizon. It looks like in such a scenario, we have zero defenses against such instances. 
+
+Hence, in such a scenario the most likely outcome would be to live in underground cities. 
+
+I think it's important to highlight, that some people believe that there is some kind of a conspiracy to get people off this planet. These kinds of conspiracies are very damaging to the vision and prospect of actually enabling life to become interplanetary. I will not say who said this, but it's a rather well-to-do person financially and with following in the thousands. Comments like these are extremely irresponsible. 
+
+There is no way that the governments can keep secrets on global level. There are telescopes everywhere and all government based agencies share data with other government agencies, universities and other institutions. If there was something to be known, the public would know about it. 
+
+That being said, again, I think that the probability (based on what we know and I am personally skeptical) of a large scale volcano going off (VEI 8 or bigger) seems to be lower. Steps to map the inner workings of the different layers, is a necessary step. **But**, if a large scale volcano were to erupt, then it will kill billions of people and would most likely take human life back to pre-civilizational times. 
+
+As asteroid, depends on how big it and where it hits. Here, the worst case is resetting the timeclock of life by tens of millions of years. Best case, is a tsunami that kills a lot of people. But life goes on. 
+
+My uneducated guess is that these areas warrant investments. Investments in the domain of monitoring. As well, having some kind of a plan in place, should an event on such scale were to occur. Whereby humans can survive in some kind of a habitat for months to years.
+
