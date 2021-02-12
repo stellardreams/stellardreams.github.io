@@ -6,7 +6,7 @@ I've spent a little bit more time reading up on Oumuamua, so I will mostly write
 
 Coming back to topic, it seems like, the jury is still split whether this object should be categorized as an asteroid, a comet, an interplanetary iceberg (that doesn't seem to leave a trail behind or we do not have the finer set of tools to observe the trail), or an [alien probe of sorts](https://en.wikipedia.org/wiki/Avi_Loeb#%CA%BBOumuamua).
 
-To my untrained portion of the neocortex and this is what piqued my interest.[Oumuamua's orbital trajectory seems strange](https://en.wikipedia.org/wiki/%CA%BBOumuamua#/media/File:Comet_20171025-16_gif.gif). Also, [the following](https://youtu.be/H62WsztrGi0) via NASA's JPL (Jet Propulsion Lab)
+To my untrained portion of the neocortex and this is what piqued my interest. [Oumuamua's orbital trajectory seems strange](https://en.wikipedia.org/wiki/%CA%BBOumuamua#/media/File:Comet_20171025-16_gif.gif). Also, [the following](https://youtu.be/H62WsztrGi0) via NASA's JPL (Jet Propulsion Lab)
 
 
 According to the [following video](https://youtu.be/PYxhxUik5PY?t=53), via [NASA Goddard Space Flight Center](https://www.nasa.gov/content/goddard-missions-present):
