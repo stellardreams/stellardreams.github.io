@@ -34,10 +34,10 @@ From the same Scientific American article (link above), Dr. Loeb is predicting:
 > ‘Oumuamua is a member of a population of objects moving on random trajectories, then based on its discovery with the Pan-STARRS telescope, you can estimate that we should very soon begin finding, on average, **one of these objects per month after the Vera C. Rubin Observatory comes online**. We can also establish a system of instruments—satellites, maybe—that would not only monitor the sky but also be able to react to the approach of such objects so we can get photographs of them as they come in rather than chasing them as they go out, because they move very fast.
 
 I guess, my question are:
-* So right now we do not really have a system for detecting these objects? 
-* Are objects of a specific size zipping through our solar system. And we are generally unaware of this phenomenon, with no adequate instruments for detection.
+* So right now we do not really have a system for detecting these objects? Because, when the two constructs go live, Dr. Loeb is predicting that we should see one Oumuamua or 2I/Borisov type of an object zipping through the solar system each month.
+* Said another way, objects of a specific size are zipping through our solar system. And we are generally unaware of this phenomenon, with no adequate instruments for detection. I wonder if this is true, because 2I/Borisov was detected by an amateur astronomer who apparently built their own telescope.
 
-Being the size of a football field, Oumuamua may not have had the capability of becoming an E.L.E (Extinction level event). Should it were to be on a direct collision course with earth. 
+Next, being the size of a football field, Oumuamua may not have had the capability of becoming an [extinction level event](https://en.wikipedia.org/wiki/Global_catastrophic_risk#Asteroid_impact). If it were to be on a direct collision course with earth. I guess it woud have taken out a city.
 
 However, what worries me that if a rock of a particular size did happen to be on that direct path. Then, based on my knowledge we have zero capabilities for tackling this potential threat. According to Neil DeGrasse Tyson, it would take us 10 years to develop a system for doing something about the threat of a potential impact with an asteroid. I believe [this is the video](https://youtu.be/HGjYmCn2MfY) where Mr. Tyson elaborates on this topic. 
 
@@ -52,3 +52,5 @@ I guess, the way this blogpost has taken shape is taking the focus away from the
 But if Oumuamua is indeed an alien probe, then the civilization that may have sent it may not be that different from ours. Otherwise their probes would have been much smaller, maybe transparent. It's almost like we'd want to mask our probes and make them look like rocks and float them out in the vastness of space. With the necessary ethical considerations to be made, that the probe would be able to autonomously manouveur around every object. With the possibility that there may be life on that planet and we would not want to impact the hygiene. Definitely not a direct impact. 
 
 What do you think? Is Oumuamua just a rock wandering from solar system to solar system. Or...? Or, something else. What is the reason behind your way of thinking?
+
+As well, how concerned do you think that we should be about the prospect about a rock of a particular size being on a direct collision course with earth. (Includes grazing the planet's surface).
