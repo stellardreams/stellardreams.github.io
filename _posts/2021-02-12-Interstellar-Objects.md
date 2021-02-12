@@ -20,7 +20,35 @@ Let's recap:
 * Oumuamua picks up speed as it passes through our solar system. Interaction with the sun's gravity as well as the gravitional forces of other planet **does not** explain why this object picked up speed. Cannot be said that outgassing is a factor, since (again) there is no coma. 
 * Oumuamua is also expected to take a particular trajectory (expected). There is a change in it's trajectory, which cannot be explained. A difference of about 25,000 miles or 40,000 kilometers.
 
+Now, this is where Dr. Avi Loeb comes in. In particular [this short segment](https://youtu.be/G5gJBZ-3OlY) from episode [#1596 of the Joe Rogan Podcast](https://open.spotify.com/episode/0y7Vfzeua0TyLSAq3CUktH?si=tL50RjRATGqoBkxY42MmFQ&nd=1). I haven't listened to the entire podcast, btw.
 
+In this short segment, [Dr. Loeb](https://www.cfa.harvard.edu/~loeb/) is slicing through this observed phenomenon. And each one of the factors highlighted above and more are being debated. 
 
+Next, last night I was reading [the following article from 'Scientific American'](https://www.scientificamerican.com/article/astronomer-avi-loeb-says-aliens-have-visited-and-hes-not-kidding1/).
 
-Note: I am working on this blogpost at the moment. 12:35 Eastern.
+In this article, Dr. Loeb (amongst other things), is talking about the:
+* [Pan-STARRS system.](https://en.wikipedia.org/wiki/Pan-STARRS)
+* [Vera C. Rubin Observatory](https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory). Expected to go online in October, 2022. According to Wikipedia, quote: 'data will become fully public after two years.' (Of launch?)
+
+From the same Scientific American article (link above), Dr. Loeb is predicting:
+> ‘Oumuamua is a member of a population of objects moving on random trajectories, then based on its discovery with the Pan-STARRS telescope, you can estimate that we should very soon begin finding, on average, **one of these objects per month after the Vera C. Rubin Observatory comes online**. We can also establish a system of instruments—satellites, maybe—that would not only monitor the sky but also be able to react to the approach of such objects so we can get photographs of them as they come in rather than chasing them as they go out, because they move very fast.
+
+I guess, my question are:
+* So right now we do not really have a system for detecting these objects? 
+* Are objects of a specific size zipping through our solar system. And we are generally unaware of this phenomenon, with no adequate instruments for detection.
+
+Being the size of a football field, Oumuamua may not have had the capability of becoming an E.L.E (Extinction level event). Should it were to be on a direct collision course with earth. 
+
+However, what worries me that if a rock of a particular size did happen to be on that direct path. Then, based on my knowledge we have zero capabilities for tackling this potential threat. According to Neil DeGrasse Tyson, it would take us 10 years to develop a system for doing something about the threat of a potential impact with an asteroid. I believe [this is the video](https://youtu.be/HGjYmCn2MfY) where Mr. Tyson elaborates on this topic. 
+
+So basically none of the space agencies, nor any other agency (to the best of my knowledge) has any plans for dealing with a threat of this magnitude. Which makes sense, since we do not have:
+* The propulsion systems. No tech exists that was in a position to chase Oumuamua. 
+* No early warning systems. I am not sure where the [different probes](https://en.wikipedia.org/wiki/List_of_active_Solar_System_probes) that humans have launched, actually are and/or if they are still active. If they are, then are we in a position to be able to detect objects of a certain size, travelling at a particular speed.
+* No credible way to actually deal with the threat. Contingent on it's size and makeup (materials). What if our existing mehods and weaponry do not work. 
+* Next, there is the issue of what is going to happen during and after the event. The impact to human lives, the economy (contingency measures that may be required). If the threat is successfully tackled, then what will stop a group (rogue or nation/state) from weaponizing the very technology that was used to safe everyone. 
+
+I guess, the way this blogpost has taken shape is taking the focus away from the possibility that Oumuamua may have been an alien probe. In which case, Oumuamua reminds me of [Rendezvous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama) by Arthur C. Clarke. Only that we have no technology for actually landing on such a construct. 
+
+But if Oumuamua is indeed an alien probe, then the civilization that may have sent it may not be that different from ours. Otherwise their probes would have been much smaller, maybe transparent. It's almost like we'd want to mask our probes and make them look like rocks and float them out in the vastness of space. With the necessary ethical considerations to be made, that the probe would be able to autonomously manouveur around every object. With the possibility that there may be life on that planet and we would not want to impact the hygiene. Definitely not a direct impact. 
+
+What do you think? Is Oumuamua just a rock wandering from solar system to solar system. Or...? Or, something else. What is the reason behind your way of thinking?
