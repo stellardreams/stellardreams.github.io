@@ -8,6 +8,12 @@ Coming back to Oumuamua, it seems like, the jury is still split whether this obj
 
 What piqued my interest was, what seems to my uneducated eyes to be [Oumuamua's strange orbital trajectory](https://en.wikipedia.org/wiki/%CA%BBOumuamua#/media/File:Comet_20171025-16_gif.gif). 
 
+According to the [following video](https://youtu.be/PYxhxUik5PY?t=53), via [NASA Goddard Space Flight Center](https://www.nasa.gov/content/goddard-missions-present):
+>"...(combined) observations showed that Oumuamua to have a small, continuous non-gravitational acceleration. Something besides just the gravity from the Sun and the planets (Saturn particularly) was affecting the trajectory of Oumuamua."
+
+The presenter then talks about a [cometary coma](https://en.wikipedia.org/wiki/Coma_(cometary)) and how there's usually a trail of dust/gas/water vapour that a comet usually leaves behind as a trail. Specifically when the comet is heating up (proximity to sun or I am thinking in the orbit of a larger planet with the gravitational forces exerted upon it[).](https://getproofed.com/writing-tips/punctuate-brackets/#:~:text=Always%20place%20periods%20outside%20closing,the%20end%20of%20a%20clause.)
+
+https://dailygalaxy.com/2019/03/provocateur-oumuamua-passes-saturn-on-its-10000-year-journey-through-solar-system/
 
 
 Note: I am working on this blogpost at the moment. 12:35 Eastern.
