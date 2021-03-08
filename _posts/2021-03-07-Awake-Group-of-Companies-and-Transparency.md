@@ -9,7 +9,7 @@ Here at the Awake Group of companies, surely but steadily we've been working tow
 Part of our strategy is to operate in a transparent manner. So we made our status reports available for everyone to see. 
 * [ASI - Awake Space Industries - Status Reports](https://app.clickup.com/8576617/docs/85qk9-721/85qk9-497)
 * [AUH - Awake Universal Healthcare - Status Reports](https://app.clickup.com/8576617/docs/85qk9-728/85qk9-504)
-* Note: I wanted to highlight that a significant number of our tasks are available for everyone to review. For example, a number of people have inquired about our Orientation week. So, I simply started making the structure for the training accessible to anyone with the link - Here is a [sample](https://app.clickup.com/t/n74gx6) (also available via the status reports).
+* Note: I wanted to highlight that a significant number of our tasks are available for everyone to review. For example, a number of people have inquired about our Orientation week. So, I simply started making the structure for the training accessible to anyone with the link - Here is a [sample](https://share.clickup.com/t/h/n74gx6/BQI2974VX87HZ6U)(also available via the status reports).
  
 
 As well, including but not limited to the following documents:
