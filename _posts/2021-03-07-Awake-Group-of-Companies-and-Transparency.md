@@ -22,7 +22,7 @@ The longer term goal is to leverage the power of the crowds in order to bring so
 If you have an idea or suggestion that you'd like to share with us, then please do let us know! Here is a [link to a spreadsheet](https://docs.google.com/spreadsheets/d/1e62FuwbWvoAKEcIQ_1E2l7oesyooBHS-xDL6DNjl7-A/edit?usp=sharing) for this purpose and you should be able to edit it directly. 
 
 
-Overall, thank you sincerely for your time and for your support. I look forward to sharing updates with our supporters.
+Overall, thank you sincerely for your time and for your support. I look forward to sharing more updates with you.
 
 Sincerely, 
 
