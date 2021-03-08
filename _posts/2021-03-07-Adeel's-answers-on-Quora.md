@@ -10,7 +10,7 @@ I am almost at the 500 answers mark. Most of my answers are on the topics of:
 
 Here is a link to my [profile on Quora](https://www.quora.com/profile/Adeel-Khan-3/answers). Maybe there is something on there that could be useful for you. 
 
-Feel free to engage me on Quora and ask me a question that you may have on your mind. A question you believe I could assist you in answering/or help frame another question or series of questions.
+Feel free to engage me on Quora and ask me a question that you may have on your mind. A question, that you believe I could assist you in answering. And/or help frame another question or series of questions.
 
 Thanks for reading. 
 
