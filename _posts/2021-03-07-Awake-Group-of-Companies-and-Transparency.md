@@ -2,7 +2,7 @@ Hello!
 
 How are you doing?
 
-Hey, I wanted to say that I am so grateful that you decided to drop by. I sincerely do.
+Hey, I wanted to say that I am so grateful that you decided to drop by! I sincerely do. 
 
 Here at the Awake Group of companies, surely but steadily we've been working towards setting down the foundations for our company. 
 
