@@ -17,7 +17,7 @@ As well, including but not limited to the following documents:
 * [AUH - Mission and Milestones](https://app.clickup.com/8576617/docs/85qk9-315/85qk9-91)
 * [What worked well, what could be improved..](https://doc.clickup.com/d/h/85qk9-938/1e915b65980fe87)
 
-The longer term goal is to leverage the power of the crowds in order to bring some of the areas that we have identified and more. Right now, we are collecting ideas (across the board) in order to capitalize upon opportunities in the outspace and healthcare arenas. 
+The longer term goal is to leverage the power of the crowds in order to bring some of the areas that we have identified and more. Right now, we are collecting ideas (across the board) in order to capitalize upon opportunities in the outer space and the healthcare arenas. 
 
 If you have an idea or suggestion that you'd like to share with us, then please do let us know! Here is a [link to a spreadsheet](https://docs.google.com/spreadsheets/d/1e62FuwbWvoAKEcIQ_1E2l7oesyooBHS-xDL6DNjl7-A/edit?usp=sharing) for this purpose and you should be able to edit it directly. 
 
