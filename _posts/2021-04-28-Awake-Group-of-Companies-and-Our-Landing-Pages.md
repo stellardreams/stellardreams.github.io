@@ -15,4 +15,4 @@ Here (links below) is the very first version for both of the developments. Feedb
 | AUH           | [http://auh.surge.sh/] | [https://github.com/stellardreams/auh.surge.sh]  |
 
 
-The landing pages are hosted on **surge** and as you may have noticed. https://surge.sh/help/getting-started-with-surge 
+The landing pages are hosted on **surge** and as you may have noticed. Check out the following page, if you'd like to get started using [surge](https://surge.sh/help/getting-started-with-surge).
