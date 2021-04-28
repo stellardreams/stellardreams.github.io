@@ -11,8 +11,8 @@ Here (links below) is the very first version for both of the developments. Feedb
 
 |               | Website              | Github Repo   |
 | ------------- | -------------        | ------------- |
-| ASI           | http://asi.surge.sh/ | https://github.com/stellardreams/asi.surge.sh  |
-| AUH           | http://auh.surge.sh/ | https://github.com/stellardreams/auh.surge.sh  |
+| ASI           | [http://asi.surge.sh/] | [https://github.com/stellardreams/asi.surge.sh]  |
+| AUH           | [http://auh.surge.sh/] | [https://github.com/stellardreams/auh.surge.sh]  |
 
 
 The landing pages are hosted on **surge** and as you may have noticed. https://surge.sh/help/getting-started-with-surge 
