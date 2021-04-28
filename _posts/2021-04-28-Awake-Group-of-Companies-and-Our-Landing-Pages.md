@@ -4,7 +4,7 @@ How are you doing today?
 
 We didn't have a presence on the web. Focusing on the utility, I personally did not want to pay $12 USD per month.
 
-So I just just started creating a landing page using basic HTML and CSS. 
+So I just started creating a landing page (or pages) using basic HTML and CSS. 
 
 Here (links below) is the very first version for both of the developments. Feedback is super welcome and appreciated. 
 
