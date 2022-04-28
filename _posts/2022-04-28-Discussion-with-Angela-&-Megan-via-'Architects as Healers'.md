@@ -1,0 +1,2 @@
+Date and time: Monday, May 2, 2022, 9:00 AM - 10:00 AM Eastern.
+Event: I will be speaking at ‘Architects as Healers: Buildings as Medicine’ with Megan Mazzocco and Angela Mazzi. We will talk about how to feed all humans quality and nutritious foods making use of 100% sustainable means. As well, power sustainable cycles of abundance. It would be great if you can join via Clubhouse. Links in the post below!
