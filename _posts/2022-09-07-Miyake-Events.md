@@ -18,13 +18,13 @@ Shifting gears, more recently, I came across the following article via the Scien
 * The article and the corresponding entries via Wikipedia highlight the building up of certain elements. The signatures can be found in [tree rings](https://en.wikipedia.org/wiki/Dendrochronology){:target="_blank" rel="noopener"} / [Carbon-14](https://en.wikipedia.org/wiki/Carbon-14){:target="_blank" rel="noopener"} and [ice-cores.](https://en.wikipedia.org/wiki/Ice_core){:target="_blank" rel="noopener"} ./ [Beryllium isotopes](https://en.wikipedia.org/wiki/Beryllium){:target="_blank" rel="noopener"}. [Beryllium 10 - to be precise](https://en.wikipedia.org/wiki/Beryllium-10){:target="_blank" rel="noopener"}   
 
 In July of this year (2022), I stumbled across the following article via the Globe and Mail. [link](https://www.theglobeandmail.com/opinion/article-a-major-solar-storm-can-strike-earth-we-need-to-be-ready/){:target="_blank" rel="noopener"}. There is a paywall involved and I access articles like these via the lynx browser. Here is an excerpt from this very article: 
->" Most crucially, we can plan for the manual turning off of power grids, fibre-optic networks and satellites - effectively putting
+> Most crucially, we can plan for the manual turning off of power grids, fibre-optic networks and satellites - effectively putting
    them into "safe mode" - before a major solar storm arrives. But a shutdown would have to be done as soon as we get a warning, for
    while robotic spacecraft stationed near the sun would provide one, it would arrive only a few hours before the storm itself.
 
-   Someone will have to make the tough but necessary decision to put the country on safe mode for about one week. That decision must
+> Someone will have to make the tough but necessary decision to put the country on safe mode for about one week. That decision must
    then be communicated immediately to thousands of government and commercial operators. Last but not least, emergency alerts will have
    to be sent to the general public before power, cell networks and the Internet are turned off, to prevent unnecessary confusion and
-   panic."   
+   panic.  
 
 A ['Miyake'](https://en.wikipedia.org/wiki/774%E2%80%93775_carbon-14_spike){:target="_blank" rel="noopener"} scale event pointing straight towards Earth could have catastrophic outcomes. 
