@@ -1,7 +1,7 @@
 Going with an extremely limited information that I have gathered, a ['Miyake'](https://en.wikipedia.org/wiki/774%E2%80%93775_carbon-14_spike){:target="_blank" rel="noopener"} scale event pointing straight towards Earth could have not so great outcomes for civilization.  
 
 # Intro
-[Solar Flares](https://en.wikipedia.org/wiki/Solar_flare){:target="_blank" rel="noopener"} and [CME - Coronal Mass Ejections](https://en.wikipedia.org/wiki/Coronal_mass_ejection){:target="_blank" rel="noopener"} are topics that we briefly looked at last year. As an aside, as of September last year I have been running with the two projects [ASI](https://asi.surge.sh/) and [AUH](https://auh.surge.sh/) in an individual capacity.
+[Solar Flares](https://en.wikipedia.org/wiki/Solar_flare){:target="_blank" rel="noopener"} and [CME - Coronal Mass Ejections](https://en.wikipedia.org/wiki/Coronal_mass_ejection){:target="_blank" rel="noopener"} are topics that we briefly looked at last year. As an aside, as of September last year I have been running with the two projects [ASI](https://asi.surge.sh/){:target="_blank" rel="noopener"} and [AUH](https://auh.surge.sh/){:target="_blank" rel="noopener"} in an individual capacity.
 
 # Difference between CMEs and Solar Flares
 Coming back to the topic, I still have difficulty distinguishing solar flares from CMEs. So here is [an article](https://phys.org/news/2014-09-difference-cmes-solar-flares.html){:target="_blank" rel="noopener"} that I Googled. 
