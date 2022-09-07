@@ -1,4 +1,4 @@
-[Solar Flares](https://en.wikipedia.org/wiki/Solar_flare) and [CME - Coronal Mass Ejections] (https://en.wikipedia.org/wiki/Coronal_mass_ejection) is a topic that we briefly looked at last year. As of September last year, I have been running with the two projects in an individual capacity.
+[Solar Flares](https://en.wikipedia.org/wiki/Solar_flare) and [CME - Coronal Mass Ejections](https://en.wikipedia.org/wiki/Coronal_mass_ejection) is a topic that we briefly looked at last year. As of September last year, I have been running with the two projects in an individual capacity.
 
 I still have difficulty telling one event from another, since the initial time we looked into this phenomenon,  So here is [an article](https://phys.org/news/2014-09-difference-cmes-solar-flares.html) that I Googled. 
 
