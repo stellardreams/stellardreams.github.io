@@ -5,7 +5,8 @@ Coming back to the topic, I still have difficulty distinguishing solar flares fr
 Note: I must state that this post is being made in good faith. At the same time, I do not have a background in [Heliophysics](https://en.wikipedia.org/wiki/Heliophysics) and associated areas. And so and as always, I am very open to criticism.
 
 * Initially, my primary concern was that there are safeguards in place for critical facilities.
-* However, contingent upon the scale of the event, the events could be not so good for civilization at large. There are a whole host of scenarios to consider and the outcome sitting on a spectrum. One between knocking civilization back by thousands of years to one involving a controlled shutdown for the duration of the event.
+* However, contingent upon the scale of the event, the events could be not so good for civilization at large. 
+* And so, going forward there may be a whole host of scenarios to consider and the outcome sitting on a spectrum. One between knocking civilization back by thousands of years (perhaps irreversibly - who knows) to one involving a controlled shutdown for the duration of the event. I would think that our collective human and machine civilization is not as focused on managing risks, existential of a nature. The outcome of [scenario based exercises](https://en.wikipedia.org/wiki/Scenario_planning) is what will highlight what the needs are going to be and at which scale. Meaning, contingent upon the scope/complexity of the event, what set of preventive measures need to be taken. As well, how are the needs of the population going to be me during such a phase or phases.
 
 Initially: 
 * I started thinking about shielding of some sorts. 
@@ -25,8 +26,6 @@ In July this year, I stumbled across the following article via the Globe and Mai
    Someone will have to make the tough but necessary decision to put the country on safe mode for about one week. That decision must
    then be communicated immediately to thousands of government and commercial operators. Last but not least, emergency alerts will have
    to be sent to the general public before power, cell networks and the Internet are turned off, to prevent unnecessary confusion and
-   panic."
-   
-   
+   panic."   
 
-Continuing at 18:55 Eastern.
+A ['Miyake'](https://en.wikipedia.org/wiki/774%E2%80%93775_carbon-14_spike) scale event pointing straight towards Earth could have catastrophic outcomes. 
