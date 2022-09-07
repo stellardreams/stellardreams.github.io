@@ -189,6 +189,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
+  input: Kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
