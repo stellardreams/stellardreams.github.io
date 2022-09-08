@@ -1,4 +1,4 @@
-*Note*: I must state that this post is being made in good faith. At the same time, I do not have a background in [Heliophysics](https://en.wikipedia.org/wiki/Heliophysics){:target="_blank" rel="noopener"} and associated areas. And so and as always, I am very open to criticism.
+**Note**: I must state that this post is being made in good faith. At the same time, I do not have a background in [Heliophysics](https://en.wikipedia.org/wiki/Heliophysics){:target="_blank" rel="noopener"} and associated areas. And so and as always, I am very open to criticism.
 
 Going with an extremely limited information that I have gathered, a ['Miyake'](https://en.wikipedia.org/wiki/774%E2%80%93775_carbon-14_spike){:target="_blank" rel="noopener"} scale event pointing straight towards Earth could have not so great outcomes for civilization.  
 
