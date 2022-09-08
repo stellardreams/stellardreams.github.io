@@ -15,4 +15,4 @@ There was a 'Scientific American' article that I was reading in print (paper for
 
 Anyhow my main concern was around the cloud of gas itself. Particularly concerns specific to the path that the solar system is on. Seeing that the composition of these dust clouds could be made up of Carbon Monoxide. It doesn't look like the solar system would traverse such clouds in a number of days/weeks or years. 
 
-From my untrained and uneducated perspective, [better mapping](https://www.google.com/search?q=esa+map+of+milky+way&oq=esa+map+of+&aqs=chrome.0.0i512j69i57j0i22i30j0i390l2.2209j0j7&sourceid=chrome&ie=UTF-8) would be a good start. 
+From my untrained and uneducated perspective, [better mapping](https://www.google.com/search?q=esa+map+of+milky+way&oq=esa+map+of+&aqs=chrome.0.0i512j69i57j0i22i30j0i390l2.2209j0j7&sourceid=chrome&ie=UTF-8){:target="_blank" rel="noopener"} would be a good start. 
