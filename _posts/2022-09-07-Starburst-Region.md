@@ -7,8 +7,8 @@ According to Wikipedia
  
 
 The set of questions I was thinking: 
-* What is the actual shape of the Milky Way. With a keen focus on the mergers with other galaxies (dwarf and possibly others). What kind of bands are involved and how are other black holes, solar masses, rogue planets, dust and smaller rocks (and possibly other phenomenon) are moving through these bands. 
-* I think I read somewhere that there are pockets of dust clouds. I forget it it was Milky Way or another Galaxy that was observed. But the actual duration for which specific (Starburst) specific dust cloud emerge, the duration was cited to be between 6 to 9 million years. I need to come back and revise and updated this comment.
+* What is the actual shape of the Milky Way. With a keen focus on the mergers with other galaxies (dwarf and possibly others). What kind of bands are involved and how are other black holes, solar masses, rogue planets, dust and smaller rocks (and possibly other phenomenon) are moving through these bands. I can appreciate that not all the stellar massess e.t.c around the MilkyWay have been mapped in their intricate details. But possibly a small fraction thereof (Maybe around 1% or more of the stellar masses. I could be wrong here). 
+* I think I read somewhere that there are pockets of dust clouds. I forget it it was Milky Way or another Galaxy that was observed. But the actual duration for which specific (Starburst) specific dust cloud emerge, the duration was cited to be between 6 to 9 million years. **Note to self:** I need to come back and revise and updated this comment.
 * Back in August (of this year) was asking around and I was told that there was something called [PHANGS](https://twitter.com/search?lang=en&q=phangs&src=typed_query){:target="_blank" rel="noopener"}. It stands for **'Physics at High Angular resolution in Nearby GalaxieS'** 
 
 There was a 'Scientific American' article that I was reading in print (paper form). I reckon that it was an article published in the past 6 months or so. I should have noted the actual date of publication.
