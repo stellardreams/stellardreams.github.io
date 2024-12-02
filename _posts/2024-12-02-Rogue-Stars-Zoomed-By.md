@@ -16,3 +16,7 @@ Susanne's research reminds me of:
 - - It was intuition that lead me to think associated thoughts. I am very interested in the make/composition of the reality around the MilkyWay and the much more expansive (and relative) cosmological (most likely quantum) realms. Specific to TNOs, here are some of the posts that I can think of. The direct source for these posts is directly via Github (unless states otherwise, as in links via Youtube and external links that I did not provision e.t.c)
   - - - [Links via Github](https://github.com/stellardreams/stellardreams.github.io/tree/master/_posts)
       - test
+
+- Test of bullets
+  - Test of indentation
+    - Yet another test of bullets and indentations.
