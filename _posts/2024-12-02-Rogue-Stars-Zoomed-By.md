@@ -1,0 +1,12 @@
+Yesterday, 
+
+a. [Search leveraging the string - this is a google news search link - but always a good idea to check links before you click on them](https://www.google.com/search?sca_esv=32e73b67f33f8410&q=earth+com+trans+neptunian+object&tbm=nws&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39Jw_Y7pXPv6W9UjIXzt09-Y-RVsUQytO3H9U9unQ4zjSmyc1am7RU9IOaZeZLN-vxqOLRVgtOkNIBInceOOInHD1Vy8A8dMZkK6qsEDDgBo37uamqwPID1ktpoxri6hURFY-RftoYl5J3cAxl4SOYvmGkrX6Q&sa=X&ved=2ahUKEwiT34uux4mKAxXUv4kEHYvDKEIQ0pQJegQIFBAB&biw=1137&bih=567&dpr=2.25)  
+b. lead to, the following article: [Rogue star zoomed by our Solar System and disrupted planetary orbits](https://www.earth.com/news/rogue-star-zoomed-by-our-solar-system-disrupted-planetary-orbits-stretched-edges/) 
+
+The name of the astrophysicist mentioned and a link to their profile via Google scholar is as follows: 
+- [Susanne Pfalzner of Forschungszentrum Jülich](https://scholar.google.com/citations?hl=en&user=dplYCPwAAAAJ&view_op=list_works&citft=1&citft=3&email_for_op=adeelnkhan%40gmail.com&sortby=pubdate)
+
+Susanne's research reminds me of: 
+- The mention of some of Dr. Avi Loeb's research, along with his graduate students and team members. The little I know about research that may be associated from some of the articles that I have stumbled across. Here is a link to [Dr. Loeb's profile on Google Scholar.](https://scholar.google.com/citations?hl=en&user=CvQxOmwAAAAJ&view_op=list_works&citft=1&citft=3&email_for_op=adeelnkhan%40gmail.com&sortby=pubdate)
+- Going back to Susanne Pfalzer's research, particularly via the Earth.com article highlighted above. It was intuition that lead me to think associated thoughts. This was a number of years ago, when I first heard Professor Brian Cox highlight TNO's (Trans-Neptunian Objects). I cannot recall the source at this point. But this must have been anywhere from 6 to 7 years ago. During the past couple of years and I cannot say that I think about this and associated areas often. Research for TNOs and I have not begun to research this, but research for TNOs, I would think that a handful of researchers are looking at this and associated areas around the world. And that the majority of the researchers are either from the UK (United Kingdom) and now Germany (Forschungszentrum Jülich) via [Susanne Pfalzer](https://www.fz-juelich.de/en/@@search?SearchableText=Susanne%20Pfalzner&active=relevance&allow_local=false&group_select=0&local=false)
+- - Test   
