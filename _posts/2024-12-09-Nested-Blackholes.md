@@ -4,7 +4,7 @@ During the 100 minute mark of the segment, there is a female scientist speaking 
 
 I noticed that there was stuff that was documented to go around this Blackhole. But:
 - It had a more oblong orbit. Kind of like Sedna's orbital eccentricity around the solar system. Which I have blogged about on here. And yes, these are different systems. Blackhole vs the Sun.
-- The other thing I noticed was that the stuff/ojbect circling the Blackhole was moving in it's orbit, what seemed to be like varying speeds. So I started thinking. That either there is more mass around the areas where the object slows down. Or there are other/nested blackholes situated in these regions. Which would not only explain the orbital eccentricity of the object in motion. But the varying speeds around particular points.
+- The other thing I noticed was that the stuff/object circling the Blackhole was moving in it's orbit, what seemed to be like varying speeds. So I started thinking. That either there is more mass around the areas where the object slows down. Or there are other/nested blackholes situated in these regions. Which would not only explain the orbital eccentricity of the object in motion. But the varying speeds around particular points.
 
 I make these observations without having looked at any data. Sans the one brief animation via the source above. Which I should link. I am not on the same machine. 
 
