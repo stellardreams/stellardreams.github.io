@@ -1,6 +1,6 @@
 I was watching comtent via BBC's Science Team via Youtube. It's a 5 hour video and I have gone through about 100 minutes of content. 
 
-During the 100 minute mark of the segment, there is a female scientist speaking about Blackhole. I didnt get a chance to document the name of the researcher. 
+During the 100 minute mark of the segment, there is a female scientist speaking about Blackholes. I didnt get a chance to document the name of the researcher. 
 
 I noticed that there was stuff that was documented to go around this Blackhole. But:
 - It had a more oblong orbit. Kind of like Sedna's orbital eccentricity around the solar system. Which I have blogged about on here. And yes, these are different systems. Blackhole vs the Sun.
