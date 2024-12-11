@@ -10,14 +10,18 @@ I make these observations without having looked at any data. Sans the one brief 
 
 Some associated thoughts that I am now thinking:
 - Pfalzer's (recalling name from memory) research may posit that the behavior of TNOs (Trans-Neptunian Objects) can be explained, if we place a stellar body zipping by (previous post). 
-- But could it be, that and in random order: a. This phenomenon of stars (maybe blackholes) zipping by is more frequent. Not sure about the frequency. Dr. Loeb  and Pfalzer would be good candidates to discuss. b. In addition to, a blckhole of a certain size may still exist in the outer solar system region. Unless, Pfalzer's research defines the behavior of TNO's convincingly and exclusively. c. I had some associated thoughts on the reported slowdown and reversal (direction) of the spin of the Earth's core. Some reports suggests that the core is now leaking. Not sure, the degree to which. There is also criticism of this report of the core spin slowing down/reversing direction etc. I have only read a handful of articles on this topic. But if this is true, I was thinking that maybe this could be due to the gravitational pull of stuff zipping by and some phenomenon that has a gravitational effect. 
+- But could it be, that and in random order: a. This phenomenon of stars (maybe blackholes) zipping by is more frequent. Not sure about the frequency. Dr. Loeb  and Pfalzer would be good candidates to discuss. b. In addition to, a blckhole of a certain size may still exist in the outer solar system region. Unless, Pfalzer's research defines the behavior of TNO's convincingly and exclusively. c. I had some associated thoughts on the reported slowdown and reversal (direction) of the spin of the Earth's core. d. Reports that indicate that the core has been  leaking heavy iron for Billions of years.
+
+Next and coming back,not sure, the degree to which. There is also criticism of this report of the core spin slowing down/reversing direction etc. I have only read a handful of articles on this topic. But if this is true, I was thinking that maybe this could be due to the gravitational pull of stuff zipping by and some phenomenon in the outer solar system that has a gravitational effect. If such phenomenon impact the flow of stuff inside of Earth, then that will change a lot of other things. I have another question, if such behaviors also explain the faster than normal movement of the magnetic North towards Siberia.
 
 Now I am thinking if a very sensitive 'Foucalt's pendulum' somewhere in space could help us come up with answers to queries like this. 
 
-I am not sure if this would indeed be the way to get to answers to questions like these. As differet planetary bodies that exist, will be exerted their gravitational pull on this pendulum. 
+I am not sure if this would indeed be the way to get to answers to questions like these. As differet planetary bodies that exist, will be exerting their gravitational pull on this pendulum. 
 
 Maybe, multiple iterations of such a hypothetical device can be situated across the solar system. 
 
-For packet-sniffing, the ability to hone in on protocols has existed for quite some time. In theory and borrowing from this, tools would be developed that could help pick and choose the gravitional effects. Thua allowing us to hwlp create a picture of what kind of gravitational effecta are being exerted. 
+For packet-sniffing, the ability to hone in on protocols has existed for quite some time. In theory and borrowing from this, tools would be developed that could help pick and choose the gravitional effects. Thus allowing us to help create a picture of what kind of gravitational effects are being exerted. 
 
-Via such a construct, we should, in theory, be in a capacity to answer other primary/fundamental questions. Including the questions highlighted. Is there a small blackhole in the outer solar system and is it's gravitational pull interacting with Earth's core 
+Via such a construct, we should, in theory, be in a capacity to answer other primary/fundamental questions. Including the questions highlighted. Is there a small blackhole in the outer solar system and is it's gravitational pull interacting with Earth's core.
+
+Shifting movements in and around the core. The degree to which and in timelines involving ranges of time normative to generations. Helping predict these movements in advance will save a lot of lives. And quality of lives also. 
