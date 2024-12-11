@@ -1,4 +1,4 @@
-I was watching comtemt via BBC's Science Team via Youtube. It's a 5 hour video and I have gone through about 100 minutes of content. 
+I was watching comtent via BBC's Science Team via Youtube. It's a 5 hour video and I have gone through about 100 minutes of content. 
 
 During the 100 minute mark of the segment, there is a female scientist speaking about Blackhole. I didnt get a chance to document the name of the researcher. 
 
