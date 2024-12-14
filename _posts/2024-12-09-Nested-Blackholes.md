@@ -1,10 +1,11 @@
-I was watching comtent via BBC's Science Team via Youtube. It's a 5 hour video and I have gone through about 100 minutes of content. 
+Via [BBC Earth Science's - so called 5 hours of mind-blowing content](https://www.youtube.com/watch?v=u6_wBEdQFf4) via Youtube. It's a 5 hour video and I have gone through a fair chunk of it.
 
-During the 100 minute mark of the segment, there is a female scientist speaking about Blackholes. I didnt get a chance to document the name of the researcher. 
+Around the [22:55 minute mark](https://youtu.be/u6_wBEdQFf4?t=1350), [Dr. Andrea M. Ghez](https://en.wikipedia.org/wiki/Andrea_M._Ghez) is explaining some of her work and her research related to [Sag A *](https://en.wikipedia.org/wiki/Andrea_M._Ghez#Black_hole_at_the_Galactic_Center_(Sgr_A*))
 
-I noticed that there was stuff that was documented to go around this Blackhole. But:
-- It had a more oblong orbit. Kind of like Sedna's orbital eccentricity around the solar system. Which I have blogged about on here. And yes, these are different systems. Blackhole vs the Sun.
-- The other thing I noticed was that the stuff/object circling the Blackhole was moving in it's orbit, what seemed to be like varying speeds. So I started thinking. That either there is more mass around the areas where the object slows down. Or there are other/nested blackholes situated in these regions. Which would not only explain the orbital eccentricity of the object in motion. But the varying speeds around particular points.
+What piqued my interest around the 22:55 minute. On the visualization being displayed, there appears to be stuff going around and whatever is happening in the very center of Dr. Andrea's screen. 
+- There is some phenomenon that has layers of purple, blue, green and a core of red. It has an elliptical orbit that is showcased in yellow. See screenshot above, directly from the source video.
+- The orbit of this phenomenon reminds me of [Sedna's orbital eccentricity](https://en.wikipedia.org/wiki/Sedna_(dwarf_planet)#Orbit_and_rotation) around the solar system. Which I have blogged about here on Github [link](https://stellardreams.github.io/Sedna's-orbital-eccentricity/). And yes, these are different systems. As in, something going around, what looks to be like Sag A * (A Supermassive Blackhole) vs a rock like [Sedna](https://lweb.cfa.harvard.edu/~kenyon/pf/sedna/vid1.html) going around the Sun.
+- The other thing I noticed was that the stuff/object circling the Blackhole was moving in it's orbit, what seemed to be like varying speeds. So I started thinking. That either a. There is more mass around the areas where the object slows down. Or b. There are other/nested blackholes situated in these regions. Which would not only explains the orbital eccentricity of the object in motion. But the varying speeds around particular points.
 
 I make these observations without having looked at any data. Sans the one brief animation via the source above. Which I should link. I am not on the same machine. 
 
@@ -14,7 +15,7 @@ Some associated thoughts that I am now thinking:
 
 Next and coming back,not sure, the degree to which. There is also criticism of this report of the core spin slowing down/reversing direction etc. I have only read a handful of articles on this topic. But if this is true, I was thinking that maybe this could be due to the gravitational pull of stuff zipping by and some phenomenon in the outer solar system that has a gravitational effect. If such phenomenon impact the flow of stuff inside of Earth, then that will change a lot of other things. I have another question, if such behaviors also explain the faster than normal movement of the magnetic North towards Siberia.
 
-Now I am thinking if a very sensitive 'Foucalt's pendulum' somewhere in space could help us come up with answers to queries like this. 
+Now I am thinking if a very sensitive ['Foucalt's pendulum'](https://en.wikipedia.org/wiki/Foucault_pendulum) somewhere in space could help us come up with answers to queries like this. 
 
 I am not sure if this would indeed be the way to get to answers to questions like these. As differet planetary bodies that exist, will be exerting their gravitational pull on this pendulum. 
 
