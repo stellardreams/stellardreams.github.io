@@ -1,6 +1,6 @@
 Via [BBC Earth Science's - so called 5 hours of mind-blowing content](https://www.youtube.com/watch?v=u6_wBEdQFf4) via Youtube. It's a 5 hour video and I have gone through a fair chunk of it.
 
-Around the [22:55 minute mark](https://youtu.be/u6_wBEdQFf4?t=1350), [Dr. Andrea M. Ghez](https://en.wikipedia.org/wiki/Andrea_M._Ghez) is explaining some of her work and her research related to [Sag A *](https://en.wikipedia.org/wiki/Andrea_M._Ghez#Black_hole_at_the_Galactic_Center_(Sgr_A*))
+Around the [22:55 minute mark](https://youtu.be/u6_wBEdQFf4?t=1350), [Dr. Andrea M. Ghez](https://en.wikipedia.org/wiki/Andrea_M._Ghez) is explaining some of her work and her research related to [Sag A Star - Represented by an Asterisk](https://en.wikipedia.org/wiki/Andrea_M._Ghez#Black_hole_at_the_Galactic_Center_(Sgr_A*))
 
 What piqued my interest around the 22:55 minute. On the visualization being displayed, there appears to be stuff going around and whatever is happening in the very center of Dr. Andrea's screen. 
 - There is some phenomenon that has layers of purple, blue, green and a core of red. It has an elliptical orbit that is showcased in yellow. See screenshot [here](https://github.com/stellardreams/stellardreams.github.io/blob/master/assets/images/12-13-2024-BBC-Five-Hours-Nested-Blackholes.PNG?raw=true) This screenshot has been taken directly from the source video that has been linked above.
